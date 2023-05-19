@@ -28,4 +28,5 @@ jobs:
           git submodule foreach git pull origin main --ff-only
           git add .
           git commit -m "Update skoria submodule"
-          git push origin HEAD:main
+          git push "https://${{ secrets.SKORIA_SITE_TOKEN }}@github.com/pheelwell/skoria-site.git" HEAD:main
+
