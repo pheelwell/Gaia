@@ -36,7 +36,9 @@ If you have any questions or need assistance, don't hesitate to reach out to *ph
 
 ## Add Own Changes
 
-The `Main` branch is protected, so you won't be able to add to it.To add your own changes to the Skoria World Lore repository, you'll need to create a new branch and submit a pull request. Here's how to do it:
+Just write Articles according to the [[Note Structure Guidelines]].
+
+The `Main` branch is protected, so you won't be able to add to it. To add your own changes to the Skoria World Lore repository, you'll need to create a new branch and submit a pull request. Here's how to do it:
 
 1. Open GitHub Desktop.
 2. In the list of repositories, select `skoria`.
@@ -66,4 +68,3 @@ Your pull request will now be submitted for review by other collaborators who ca
 
 Please be patient while waiting for feedback and be prepared to make additional adjustments if requested. Once your pull request is approved and merged, your changes will become part of the Skoria World Lore repository, and everyone else can sync their Obsidian vaults to see your contributions!
 
-Happy Worldbuilding!
