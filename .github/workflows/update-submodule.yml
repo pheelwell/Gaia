@@ -16,6 +16,11 @@ jobs:
           repository: pheelwell/skoria-site
           path: skoria-site
 
+      - name: Set Git user
+        run: |
+          git config --global user.email "dev@bot.de"
+          git config --global user.name "Dev Bot"
+
       - name: Update submodule
         run: |
           cd skoria-site
