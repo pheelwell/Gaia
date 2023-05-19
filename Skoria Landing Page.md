@@ -6,7 +6,7 @@ type: Meta
 
 ## Hi🌱
 
-Hier ist die allgemeine Lore zu Skoria zu finden.
+Here you can find the common Lore of Skoria.
 
 [[Cosmology]]
 [[Gods]]

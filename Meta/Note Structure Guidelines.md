@@ -79,6 +79,8 @@ It is a good idea to follow this guideline for writing notes:
 - Include relevant links to other notes or external sources when necessary
 - Break down long paragraphs into smaller, more digestible chunks of text
 
+Example Formatting can be found at [[Example Site]]
+
 # Images and Media
 
 When including Images, include them INSIDE the Repo, otherwise they won't be synced. Please only use selfmade Images that you hold copyright to.
