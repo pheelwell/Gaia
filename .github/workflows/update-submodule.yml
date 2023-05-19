@@ -24,7 +24,8 @@ jobs:
       - name: Update submodule
         run: |
           cd skoria-site
-          git submodule update --remote --merge
+          git submodule update --init --recursive
+          git submodule foreach git pull origin main --ff-only
           git add .
           git commit -m "Update skoria submodule"
           git push origin HEAD:main
