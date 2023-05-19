@@ -47,3 +47,33 @@ Together, Leptys and Varuún maintain a balance between growth and decay within 
 
 ## Twins of Magic: [[Mysteria]], [[Lar]]
 Mysteria represents raw arcane energy - the untamed power that flows through the universe. Their domain encompasses magical potential in its purest form as well as the generation of Mana as chaotic forces. Mysteria symbolizes limitless possibilities found within magic but also highlights its inherent dangers when wielded without control or understanding.
+
+
+Lar, on the other hand, governs the structured and disciplined aspects of magic. They are associated with the study, mastery, and application of magical knowledge in a controlled and focused manner. As a deity of order within magic, Lar encourages mortals to seek understanding and mastery over their arcane abilities to harness its potential safely and effectively.
+
+Together, Mysteria and Lar maintain a balance between the untamed potential of magic and its controlled application in the hands of mortal beings. They ensure that magic remains both a powerful force in the world yet tempered by wisdom and discipline.
+
+# Worship
+
+## Temples and Shrines
+Temples dedicated to these deities can be found throughout the world, often as pairs representing their respective twin connections. Temples dedicated to Sori and Luniam might feature grand windows or skylights allowing sunlight or moonlight to bathe the interior while temples for Asmadan and Drinera may have areas with extreme heat or coldness as part of their design.
+
+Smaller shrines can also be found in more remote locations or within cities where individuals can offer prayers or make offerings to their chosen deity. These shrines might feature symbols or elements associated with each deity such as candles for Asmadan or water basins for Drinera.
+
+## Clergy
+Priests, priestesses, and other holy representatives devote themselves to one or more of these deities, often choosing a specific twin pairing to focus on. They act as spiritual guides for communities while performing rituals or ceremonies associated with their chosen deities.
+
+For example, clergy members dedicated to Leptys may bless crops at planting time while those devoted to Varuún might oversee funeral rites for deceased community members.
+
+Clergy members often wear colors or symbols associated with their chosen deity as part of their vestments.
+
+## Holy Days
+Each pair of deities has specific holy days dedicated to them throughout the year. These may include solstices, equinoxes, or other significant astronomical events for Sori and Luniam; seasonal changes for Asmadan and Drinera; or important cultural or societal milestones for Arathor and Umbrial.
+
+During these holy days, communities gather to celebrate the influence of their chosen deities with feasts, rituals, or ceremonies that reflect their respective domains.
+
+> [!seed] Seed, Adventure Hook
+> A festival in honor of Narkis and Nefaris is about to take place in a city known for its arts and creativity. The players are hired to protect a valuable art piece that is rumored to be targeted by thieves during the festival's chaos.
+
+>[!seed] Seed, Adventure Hook
+>A sudden imbalance between Mysteria and Lar has led to an increase in wild magical surges throughout the world. The players must discover the cause behind this imbalance and restore harmony between the Twins of Magic before uncontrolled arcane energy wreaks havoc on the world.
