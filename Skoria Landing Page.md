@@ -10,4 +10,4 @@ Hier ist die allgemeine Lore zu Skoria zu finden.
 
 [[Cosmology]]
 [[Gods]]
-Test
+Tests
