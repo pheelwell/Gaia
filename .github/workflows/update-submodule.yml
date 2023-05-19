@@ -1,0 +1,25 @@
+name: Update Submodule
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-submodule:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout skoria-site repo
+        uses: actions/checkout@v2
+        with:
+          repository: pheelwell/skoria-site
+          path: skoria-site
+
+      - name: Update submodule
+        run: |
+          cd skoria-site
+          git submodule update --remote --merge
+          git add .
+          git commit -m "Update skoria submodule"
+          git push origin HEAD:main
