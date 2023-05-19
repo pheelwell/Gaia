@@ -3,6 +3,7 @@ type: Deity
 sum:
 - Domain: Dragonblood
 - Associated Element: Piety
+dg-publish: true
 ---
 
 ### Nefaris

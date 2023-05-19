@@ -5,6 +5,7 @@ sum:
 - Domain: Water 
 - Associated Element: Calmness 
 - Virtue: Friendship 
+dg-publish: true
 ---
 ### Geran
 - Title: Brother of Oceans 

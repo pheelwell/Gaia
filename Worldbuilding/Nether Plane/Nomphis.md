@@ -4,6 +4,7 @@ sum:
 - Domain: King of Earth
 - Associated Element: Beauty, Perfectionism
 - Virtue: Fanatism, Humanism
+dg-publish: true
 ---
 ### Nomphis
 - Domain: Earth

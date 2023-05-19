@@ -4,6 +4,7 @@ sum:
 - Domain: Processing
 - Associated Element: Cosumption 
 - Virtue: Utilization
+dg-publish: true
 ---
 ### Lar
 - Domain: Processing
