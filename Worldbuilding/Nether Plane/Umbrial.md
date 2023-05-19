@@ -8,4 +8,4 @@ sum:
 ### Umbrial
 - Domain: Discord
 - Associated Element: Chaos
-- Virtue: Deception
+- Virtue: Deception 

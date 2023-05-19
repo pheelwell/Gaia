@@ -8,4 +8,4 @@ sum:
 ### Leptys
 - Title : The Beginning   
 - Domain : Life, Fertility   
-- Virtue : Intelligence   
+- Virtue : Intelligence

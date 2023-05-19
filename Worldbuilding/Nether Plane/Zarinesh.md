@@ -8,4 +8,4 @@ sum:
 ### Zarinesh
 - Domain: Synthetics
 - Associated Element: Manipulation
-- Virtue: Research
+- Virtue: Research 

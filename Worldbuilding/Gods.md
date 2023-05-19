@@ -1,5 +1,7 @@
-# Gods 
-
+---
+type: Meta
+sum:
+---
 ## Twins of Luminance: [[Sori]], [[Luniam]]
 Sori and Luniam are the deities of light, representing the sun and the moon respectively. 
 

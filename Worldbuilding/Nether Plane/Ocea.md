@@ -9,5 +9,5 @@ sum:
 ### Ocea
 - Title: Sister of Oceans
 - Domain: Water 
-- Associated Element: Energy 
+- Associated Element: Energy  
 - Virtue: Temperament

@@ -8,4 +8,4 @@ sum:
 ### Lar
 - Domain: Processing
 - Associated Element: Cosumption 
-- Virtue: Utilization
+- Virtue: Utilization 

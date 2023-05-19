@@ -8,4 +8,4 @@ sum:
 ### Sori
 - Domain: Sun
 - Associated Element: Nature
-- Virtue: Morality
+- Virtue: Morality 

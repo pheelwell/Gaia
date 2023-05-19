@@ -1,4 +1,7 @@
-![[Pasted image 20230502221111.png]]
+---
+type: Thing
+dg-publish: true
+---
 ## Rules and Axioms
 - Gods Always come in Twins, that embody Opposites.
 - Gods are not outright at War, but have a peace Treaty and can't directly hurt each other.

@@ -10,4 +10,4 @@ sum:
 - Title: Brother of Oceans 
 - Domain: Water 
 - Associated Element: Calmness 
-- Virtue: Friendship 
+- Virtue: Friendship

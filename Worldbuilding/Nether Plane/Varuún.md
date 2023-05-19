@@ -10,4 +10,4 @@ sum:
 - Title : The Death      
 - Domain : Death         
 - Associated  Element : Undeath        
-- Virtue : Knowledge / Wisdom  
+- Virtue : Knowledge / Wisdom

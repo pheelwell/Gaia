@@ -8,4 +8,4 @@ sum:
 ### Nomphis
 - Domain: Earth
 - Associated Element: Beauty
-- Virtue: Fanatism, Humanism
+- Virtue: Fanatism, Humanism 

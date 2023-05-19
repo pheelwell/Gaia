@@ -11,6 +11,7 @@ sum:
 
 As the first rays of dawn pierce the darkness, illuminating the resplendent temple atop a mountain, a figure clad in shining armor kneels in prayer. Seeking guidance and strength from Arathor, the god of righteousness, order, and justice, they are filled with divine wisdom as the deity's thunderous voice resonates within their soul.
 
+
 ## Overview
 Arathor is known as the Radiant Judge due to their role in maintaining justice throughout mortal societies. As a deity of orderliness they represent fairness in judgment while ruling over concepts such as lawfulness or stability within society itself. Arathor is also associated with protection and safety, ensuring that all creatures can exist without fear of harm.
 
