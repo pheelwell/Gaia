@@ -19,9 +19,15 @@ dg-publish: true
 - Worshipers of both gods often exist within societies side by side. While some may view followers of the opposing deity as rivals or enemies, others may recognize that both deities play an important role in sustaining life and existence.
 - Each realm within the divine plane has unique characteristics based on its governing deity. For example, a realm ruled by a god of war might be dominated by vast battlefields and fortresses while one belonging to a goddess of nature could be filled with lush forests and vibrant ecosystems.
 - At times when cosmic balance is threatened (perhaps due to an overabundance of power being channeled towards one god), divine beings from both factions may be sent to intervene by influencing events in the mortal world or combating otherworldly threats.
+- Gods can have descendants
 
+![[Pasted image 20230520000804.png]]
 # History
+?: Gods are getting created
 
+?: First human Colonies
+0: The Shattering
+650: Today
 
 # The Shattering
 cataclysmic event on an ancient dispute between two Groups of Gods. Ended in [[Asmadan]] shattering [[Umbrial]] into pieces and [[Arathor]] Jailing

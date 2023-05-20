@@ -9,5 +9,18 @@ type: Meta
 Here you can find the common Lore of Skoria.
 
 [[Cosmology]]
-[[Gods]]
+[[God Overview]]
 Tests
+
+
+Emoji for:
+- Gundras (shaddow island)
+- The Basin (river)
+- Terfals End 
+- worldbuilding🏝️ Gundras (Shadow Island)
+🌊 The Basin (River)
+🏔️ Terfals End
+🌍 Worldbuilding
+
+alternate for wouidlbuilding
+🌐 Worldbuilding

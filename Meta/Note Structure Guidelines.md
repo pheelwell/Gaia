@@ -20,19 +20,21 @@ Obsidian notes in this Repo are structured this way:
     │   ├── Concepts
     │   ├── Factions
     │   └── Things
-    └── [Continent/Plane Name]
-        ├── Factions
-        │   ├── [Faction Name]
-        │   │   ├── [Faction Name] (Main Article)
-        │   │   ├── [Person from Faction]
-        │   │   └── ...
-        ├── Regions
-        │   ├── [Region Name]
-        │   │   ├── [Region Name] (Main Article)
-        │   │   ├── [Location in Region]
-        │   │   └── ...
-        └── Things
-            └── [Thing]
+    └── [Plane Name]
+        ├── [Region Name]
+	 │   ├── Factions
+	 │   │   ├── [Faction Name]
+	 │   │   │   ├── [Faction Name] (Main Article)
+	 │   │   │   ├── [Person from Faction]
+	 │   │   │   └── ...
+	 │   ├── Regions
+	 │   │   ├── [Region Name]
+	 │   │   │   ├── [Region Name] (Main Article)
+	 │   │   │   ├── [Location in Region]
+	 │   │   │   └── ...
+	 │   └── Things
+	 │       └── [Thing]
+	 └── ...
 ```
 
 # Frontmatter
