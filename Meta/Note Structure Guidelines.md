@@ -66,7 +66,7 @@ Note content goes here.
 
 - `status`: Indicates the level of completion or development of the note. The categories are:
   - `seed`: A basic idea or concept that needs further development. This topic is up for grabs.
-  - `sprout`: A developed concept with some fleshed-out details. Talk to the owner before working on it. 
+  - `sprout`: A developed concept with some fleshed-out details. Talk to the owner before working on it.
   - `tree`: A fully developed and detailed note, that is deeply rooted into your campain, many secrets exist under the surface.
   - `willow`: a deprecated note that needs trimming or is outdated.
 
