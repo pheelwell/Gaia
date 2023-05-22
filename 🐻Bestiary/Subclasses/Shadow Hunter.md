@@ -10,7 +10,6 @@ Shadow hunters are masters of voodoo and shadow magic and were once the highest 
 The Shaddow Hunters worship one of the major Loas. They do this by making Deals with them and following their ideals. The relationship between a Shaddow Hunter and his Loa differs from a Acolyte and his God. Loas are more seen as mentors and elders, it is not uncommon that Shaddow Hunters bicker and argue with their Loas. This leeds to Shaddow Hunters often temporarily falling out of Faith of the Loas. This can be made good with offerengs and deeds devoted to the Loa.
 
 #### Connections to the Loas
-
 When you choose this archetype at 3rd level, you can choose how your connections to the different Loas are.
 
 | State          | Meaning                                                                                      |
@@ -66,7 +65,7 @@ If a Loa is not interested in you, you can wake its interest by doing something 
 
 Starting at 3rd level, you gain the ability to earn favors by the loas worshiped by your tribe.
 
-You can prepare favors of the Loas as a ritual cast. You can prepare two favors, which you can hold until your next long rest, at wich you have to prepare them again.
+You can prepare favors of the Loas as a ritual cast. You can prepare two favors, which you can hold until your next long rest, at witch you have to prepare them again.
 Favors of Loas are expended as a bonus action.
 
 ##### Shadra
@@ -196,137 +195,4 @@ You can wear the Mask for 10 minutes. The Mask falls off your face after the 10 
 | Bwomsamdi  | While wearing the Mask you can cast the Speak with Dead spell once without using a spell slot or material components. You must finish a long rest before you can use this feature again.                                                                                                           |
 
 
-![[vodo_pattern_4k_background_abstract_astral_transpare.png]]
 
-
-### Shadra:
-
-![[giant_tarantula_head_many_eyes_astral_transparent_pr.png]]
-Shadra ist the spider loa and is associated with poison, darkness and death.
-In Visions she appeares as a dark, shadowy figure with long, spidery limbs.
-She speaks with a whispery voice and talks about cruelty as if it were a virtue.
-| | |
-|-|-|
-| Ideal | Hunger. There are those who are food and those who are not. I am the hunger that cannot be sated. (Evil)|
-| Bond | I enjoy inflicting pain and suffering, and I will do whatever I can to make someone else's life a nightmare.|
-| Flaw | I am utterly ruthless. If I decide that someone is in my way, I will stop at nothing to eliminate the obstacle, even if it puts me at a disadvantage. |
-| Quirk | I have a habit of twitching my fingers when I'm nervous or plotting something.|
-
-#### Unfavorable Deal
-
-Shadra will request one of the following things:
-
-- Murder a living innocent creature.
-- Torture a living creature until it is at death's door.
-- Bring lasting pain to a living creature.
-
-
-
-
-
-
-
-### Shirvallah:
-
-![[orange_spirit_radiating_tiger_laying_on_cloud_with_a.png]]
-Shirvallah is the tiger loa and is associated with strength, courage, and heroism.
-In Visions he appeares as a giant radiating tiger with a proud main.
-He speaks with a rumbling voice and is proud of his power.
-| | |
-|-|-|
-| Ideal | Strength. There is no greater power than that of the tiger. I will do whatever it takes to become the strongest. (Good)|
-| Bond | I am fiercely protective of my family and friends. I will do anything to keep them safe.|
-| Flaw | I am quick to anger and slow to forgive. I hold grudges for a long time.|
-| Quirk | I have a habit of pacing when I'm thinking or planning something.|
-
-#### Unfavorable Deal
-
-Shirvallah will request one of the following things:
-
-- Protect a group of people from harm.
-- Rescue a group of people from a dangerous situation.
-- Overcome a innate fear of yourself.
-
-
-
-
-![[vodo_pattern_4k_background_abstract_astral_transpare.png]]
-
-
-### Bethekk:
-
-![[giant_panther__large_fangs_astral_transparent_projec.png]]
-Bethekk is the panther loa and is associated with stealth, deception, and justice.
-In Visions he appeares as a sleak panther with elegant curves.
-He speaks with a sibilant voice and speaks of deception as if it were a virtue.
-
-|.|.|
-|-|-|
-| Ideal | Justice. All creatures deserve to be treated fairly. I will make sure that they get what they deserve, whether it is good or bad. (Lawful)|
-| Bond | I have been betrayed in the past, and I will never forget it. I will make sure that those who have wronged me suffer.|
-| Flaw | I am quick to judge others, and I am slow to forgive. I hold grudges for a long time.|
-| Quirk | I have a habit of twirling my whiskers when I'm thinking or planning something.|
-
-#### Unfavorable Deal
-
-Bethekk will request one of the following things:
-
-- Fight for the underpriveledged.
-- Fight for the rights of a group of people.
-
-
-
-
-
-
-
-### Hir'eek:
-
-<img src='https://cdn.discordapp.com/attachments/1005540075326681188/1018571732417785866/e459e7ad-d8a2-4400-ac12-05c2431dc754_progress_image_100.webp'>
-
-Hir'eek is the bat loa and is associated with greed, hunger, and gluttony.
-In Visions he appeares as a bat with long fangs.
-He speaks with a hissing voice and is always talking about hunger.
-| | |
-|-|-|
-| Ideal | Greed. More is never enough. I will take whatever I can get, by any means necessary. (Evil)|
-| Bond | I am fiercely protective of my posessions. I will do anything to keep it.|
-| Flaw | I get greedy and make wrong decisions if I am tempted.|
-| Quirk | I have a habit of licking my lips.|
-
-#### Unfavorable Deal
-
-Hir'eek will request one of the following things:
-
-- Find an item of value.
-- Offer Hir'eek something of big monetary value.
-- Steal something of value
-
-
-
-
-![[vodo_pattern_4k_background_abstract_astral_transpare.png]]
-
-
-
-### Hethiss:
-
-![[giant_snake_head_tongue_symetric_astral_transparent_.png]]
-Hethiss is the snake loa and is associated with deception and plotting.
-In Visions he appeares as a snake with a long tongue.
-He speaks with a hissing voice and is always talking about hunger.
-| | |
-|-|-|
-| Ideal | Freedom. All creatures deserve to be free to choose their own destiny. I will make sure that they have that freedom, even if it means breaking the law. (Chaotic)|
-| Bond | I am fiercely protective of my family and friends. I will do anything to keep them safe.|
-| Flaw | I am quick to anger and slow to forgive. I hold grudges for a long time.|
-| Quirk | I have a habit of twitching my tail when I'm nervous or plotting something.|
-
-#### Unfavorable Deal
-
-Hethiss will request one of the following things:
-
-- Arrange for an event to happen.
-- Deceive someone.
-
-![[veteran_fantasy_king_large_scar_on_face_fantasy_port.png]]
