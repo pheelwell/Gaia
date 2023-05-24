@@ -16,13 +16,13 @@ status: Sprout
 ---
 
 ## Twins of Luminance: [[Sori]], [[Luniam]]
-[[Sori]] and [[Luniam]] are the deities of light, representing the sun and the moon respectively. 
+[[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Sori]] and [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]] are the deities of light, representing the sun and the moon respectively. 
 
-[[Sori]], the god of the sun, is associated with warmth, life, and growth. Their domain encompasses energy, vitality, and healing. As a deity of light and life, [[Sori]] is often revered for their kindness and nurturing qualities. Their virtues include compassion, generosity, and wisdom.
+[[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Sori]], the god of the sun, is associated with warmth, life, and growth. Their domain encompasses energy, vitality, and healing. As a deity of light and life, [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Sori]] is often revered for their kindness and nurturing qualities. Their virtues include compassion, generosity, and wisdom.
 
-[[Luniam]], on the other hand, represents the beauty of night and the element of stars. They govern over dreams, intuition, and mystery. While [[Sori]] brings clarity and illumination during the day, [[Luniam]] embraces the shadows and uncertainty that come with nightfall. Their virtues include introspection, imagination, and adaptability.
+[[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]], on the other hand, represents the beauty of night and the element of stars. They govern over dreams, intuition, and mystery. While [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Sori]] brings clarity and illumination during the day, [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]] embraces the shadows and uncertainty that come with nightfall. Their virtues include introspection, imagination, and adaptability.
 
-Together, [[Sori]] and [[Luniam]] symbolize harmony between day and night as well as balance between knowledge and intuition.
+Together, [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Sori]] and [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]] symbolize harmony between day and night as well as balance between knowledge and intuition.
 
 ## Twins of Winds: [[Carillea]], [[Nomphis]]
 [[Carillea]] represents gentle breezes, guiding winds, and whispers in the air. They are associated with guidance, communication, and [[inspiration]]. 
@@ -56,9 +56,9 @@ Together, [[Narkis]] and [[Nefaris]] represent a balance between artistic expres
 ## Twins of the Cycle: [[Leptys]], [[Varuún]]
 [[Leptys]] watches over the cycles of growth and decay in the natural world as well as agriculture and fertility. They are associated with life's continuous progression in both flora and fauna - from birth to death, and then back again through rebirth or regeneration. [[Leptys]] represents fertility, growth, and renewal within nature.
 
-[[Varuún]] governs the cycles of birth, life, death, and rebirth that all mortal beings must follow. They are responsible for overseeing individual life paths as well as influencing societal trends that manifest within civilizations over time. [[Varuún]] embodies transformation on a grand scale - from one generation to the next or from one era to another.
+[[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Varuún]] governs the cycles of birth, life, death, and rebirth that all mortal beings must follow. They are responsible for overseeing individual life paths as well as influencing societal trends that manifest within civilizations over time. [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Varuún]] embodies transformation on a grand scale - from one generation to the next or from one era to another.
 
-Together, [[Leptys]] and [[Varuún]] maintain a balance between growth and decay within nature as well as guiding mortal beings through their life cycles.
+Together, [[Leptys]] and [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Varuún]] maintain a balance between growth and decay within nature as well as guiding mortal beings through their life cycles.
 
 ## Twins of Magic: [[Mysteria]], [[Lar]]
 [[Mysteria]] represents raw arcane energy - the untamed power that flows through the universe. Their domain encompasses magical potential in its purest form as well as the generation of Mana as chaotic forces. [[Mysteria]] symbolizes limitless possibilities found within magic but also highlights its inherent dangers when wielded without control or understanding.
