@@ -17,7 +17,8 @@ This was the time when only gods existed, and they shaped the world to their lik
 This period marks the birth of mortal civilizations, as gods began to create various races and creatures.
 # Epoch of Harmony
 During this time, mortal civilizations thrived under the guidance and protection of their patron gods.
-[[The Shattering]]
+
+# [[The Shattering]]
 
 # Epoch of Rebirth
 After the devastation caused by The Shattering, surviving civilizations began to rebuild and adapt to their new circumstances.
