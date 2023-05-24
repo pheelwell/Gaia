@@ -10,7 +10,7 @@ type: Settlement
 ## Overview
 Herbstbog is a thriving city with a population of around 23,000 inhabitants. It is renowned for its high academic research in magic and bustling water trade. Located next to a branch of the Stillfluss river, it connects the transport route from the [[Mines of Torrar]] to other cities by water. The city is divided into three main districts: Arcane Top, Gardens, and Harbor.
 
-![[Pasted image 20230326232951.png]]
+![[Herbstbog_map.png]]
 
 
 # Notable Locations:

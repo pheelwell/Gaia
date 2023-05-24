@@ -16,7 +16,7 @@ sum:
 
 Falk is a small, remote town nestled in the south of Basin's Forest, west of [[Duesternest]]. It was initially established as a logging community but has since grown to include a diverse population of hunters, craftsmen, and even some undead members known as the [[Defilers]]. The town's economy primarily depends on logging and hunting, with occasional trade from passing merchants. Falk is also known for its weekly competitions that attract travelers from far and wide.
 
-![[Pasted image 20230331000035.png]]
+![[Falk.png]]
 ## Notable Locations:
 - [[Tavern to the Screaming Banshee]]: A popular gathering place for locals and visitors alike that magically changes its interior every time someone enters.
 - [[Gargula]]'s Trinket Shop: A mysterious shop owned by an enigmatic old lady who sells magical trinkets and reads omens.
