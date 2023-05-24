@@ -4,11 +4,23 @@ dg-skoria-home: true
 type: Meta
 ---
 
-## Hi🌱
 
-Here you can find the common Lore of Skoria.
+Welcome to the Digital Garden of Skoria Lore
 
-[[Divine Axioms]]
-[[Divine Pantheon]]
-Tests
+Delve into the mystical world of [[Skoria]], a land filled with secrets, history, and wonder. Within this digital garden, you'll uncover knowledge about:
 
+- The mysterious [[Nether Plane]]
+- The rich [[Divine History]] of gods and deities
+- The captivating cities and cultures within [[Skoria]]
+
+Explore unique subclasses such as:
+- The enigmatic [[Shadow Hunter]]
+- The powerful [[Cult of the Gifted Ones (Class)]]
+
+Before you begin your journey, please familiarize yourself with the [[Note Structure Guidelines]] and our helpful [[🌐Skoria/README]].
+
+Let the adventure begin!
+
+![Changelog]
+
+For any updates or changes made to this digital garden, please refer to our ![[Changelog]].
