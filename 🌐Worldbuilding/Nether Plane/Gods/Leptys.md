@@ -16,7 +16,7 @@ dg-publish: true
 ## Overview
 
 > [!TIP] Quick Reference
-> ![Placeholder.png| 300]
+> ![[Leptys.png| 300]]
 > **Leptys**
 > Deity of Life and Fertility
 >- **Domains**: Life, Fertility
@@ -61,3 +61,5 @@ dg-publish: true
 
 
 # Trivia
+
+isst gerne kuchen

@@ -3,7 +3,7 @@ The Shattering was a cataclysmic event resulting from a dispute between two grou
 - 85% of the civilization was wiped from [[Skoria]] 
 - The Maelstrom was an event caused by a fight between Var´uun and Leptys. 
 - Most of the technological knowledge was lost; only simple settlements survived
-- [[Asmadan]] initially sided with the chaotic gods but later switched sides, leading to the death of [[Umbrial]] by shattering him into pieces
+- [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan]] initially sided with the chaotic gods but later switched sides, leading to the death of [[Umbrial]] by shattering him into pieces
 - Zarinesh lost his left hand
 - Gods brought pieces of themselves into the world leaving parts of their powers to wield by Mortals
 - [[Arathor]] builds a barrier with the help of [[Lar]] between the [[Nether Plane]] and [[Skoria]] out of the remains of [[Umbrial]]
