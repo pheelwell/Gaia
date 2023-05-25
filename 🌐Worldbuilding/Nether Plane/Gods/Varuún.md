@@ -19,7 +19,8 @@ dg-publish: true
 Varuún, known as The Death, is a deity of death and undeath, associated with the element of Undeath. Worshipers seek knowledge and wisdom through their connection to this enigmatic deity.
 
 > [!TIP] Quick Reference
-> ![[Varuun.png| 300]] 
+> ![[Varúun.png|300]]
+> 
 > **Varuún** 
 >  The enigmatic deity of death and undeath
 >- **Domains**: Death, Undeath

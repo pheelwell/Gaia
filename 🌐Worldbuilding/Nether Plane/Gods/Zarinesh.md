@@ -10,3 +10,7 @@ dg-publish: true
 - Domain: Synthetics
 - Associated Element: Manipulation
 - Virtue: Research 
+
+
+*hat ne Hand verloren
+*clean organic synthetic alien appeareance*
