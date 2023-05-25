@@ -42,7 +42,7 @@ Temples dedicated to Asmadan are usually adorned with fiery motifs and symbols d
 ## History
 Asmadan's origins are rooted in conflict and destruction. Born from the ashes of countless battles, he embodies the primal rage that fuels the fire in the heart of any warrior. Wild at heart, ignited by victory. 
 In the early times Asmadan had the shape of a very sinister and wild beast, wielding a hammer followed by a swath of desolation. In the time of the shattering Asmadan upgraded his wargear, he is wearing a dark Armor and fiery weapons.
-![[Shared_AI_Account_a_dark_knight_wearing_a_void_black_armour_wit_34c2e90a-df6d-4dc9-9355-7a37bb782267.png]]
+![[Asmadan 2.png]]
 
 ## The Birth of Fire Magic
 It is believed that Asmadan was the first deity to wield fire magic. He created it through some nodes which were powered by [[Mysteria]]. The existence of this magic lead many magicians and other magical beeings to practise the flame of [[Asmadan]].
