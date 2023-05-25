@@ -17,11 +17,13 @@ dg-publish: true
 Sori, the deity of the sun and nature, embodies the virtue of morality. This benevolent being is a beacon of hope for those who walk in their radiant light, guiding them towards a righteous path. Followers of Sori strive to uphold their deity's ideals and live a life filled with goodness and compassion.
 
 > [!TIP] Quick Reference
-> ![[sori.png| 300]] 
+> ![[sori.png|300]]
+> 
+>  
 > **Sori** 
 >  Deity of Sun and Nature, Embodiment of Morality
 >- **Domains**: Sun, Nature
->- **Symbols**: Golden sunburst or sunflower
+>- **Symbols**: Tree of the Sun / Life
 >- **Worshipers**: Druids, rangers, farmers, healers, and those seeking guidance in morality.
 > ____
 >- **Alignment**: Neutral Good
@@ -35,7 +37,7 @@ Sori, the deity of the sun and nature, embodies the virtue of morality. This ben
 ## Ideals
 
 
-## Worshipers
+## Worshippers
 
 
 ## Temples
