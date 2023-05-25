@@ -45,7 +45,7 @@ In the early times Asmadan had the shape of a very sinister and wild beast, wiel
 ![[Shared_AI_Account_a_dark_knight_wearing_a_void_black_armour_wit_34c2e90a-df6d-4dc9-9355-7a37bb782267.png]]
 
 ## The Birth of Fire Magic
-It is believed that Asmadan was the first deity to wield fire magic. He created it through some nodes which were powered by [[Lar]]. The existence of this magic lead many magicians and other magical beeings to practise the flame of [[Asmadan]].
+It is believed that Asmadan was the first deity to wield fire magic. He created it through some nodes which were powered by [[Mysteria]]. The existence of this magic lead many magicians and other magical beeings to practise the flame of [[Asmadan]].
 
 # Roleplaying
 ## Goals and Motivations
