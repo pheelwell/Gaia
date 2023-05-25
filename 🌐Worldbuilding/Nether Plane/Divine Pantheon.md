@@ -16,13 +16,13 @@ status: Sprout
 ---
 
 ## Twins of Luminance: [[Sori]], [[Luniam]]
-[[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Sori]] and [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]] are the deities of light, representing the sun and the moon respectively. 
+[[Sori]] and [[Luniam]] are the deities of light, representing the sun and the moon respectively. 
 
-[[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Sori]], the god of the sun, is associated with warmth, life, and growth. Their domain encompasses energy, vitality, and healing. As a deity of light and life, [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Sori]] is often revered for their kindness and nurturing qualities. Their virtues include compassion, generosity, and wisdom.
+[[Sori]], the god of the sun, is associated with warmth, life, and growth. Their domain encompasses energy, vitality, and healing. As a deity of light and life, [[Sori]] is often revered for their kindness and nurturing qualities. Their virtues include compassion, generosity, and wisdom.
 
-[[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]], on the other hand, represents the beauty of night and the element of stars. They govern over dreams, intuition, and mystery. While [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Sori]] brings clarity and illumination during the day, [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]] embraces the shadows and uncertainty that come with nightfall. Their virtues include introspection, imagination, and adaptability.
+[[Luniam]], on the other hand, represents the beauty of night and the element of stars. They govern over dreams, intuition, and mystery. While [[Sori]] brings clarity and illumination during the day, [[Luniam]] embraces the shadows and uncertainty that come with nightfall. Their virtues include introspection, imagination, and adaptability.
 
-Together, [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Sori]] and [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]] symbolize harmony between day and night as well as balance between knowledge and intuition.
+Together, [[Sori]] and [[Luniam]] symbolize harmony between day and night as well as balance between knowledge and intuition.
 
 ## Twins of Winds: [[Carillea]], [[Nomphis]]
 [[Carillea]] represents gentle breezes, guiding winds, and whispers in the air. They are associated with guidance, communication, and [[inspiration]]. 
