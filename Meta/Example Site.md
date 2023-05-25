@@ -93,7 +93,7 @@ Ordered list:
 
 > [!tip] GM Tip, Hint, Important
 > Something useful could stand here
-    
+
 > [!warning] Warning, Caution, Attention
 > Something Important to be reminded of
   
@@ -107,7 +107,7 @@ Ordered list:
 >[!seed] Seed, Adventure Hook
 >This is something you could use to build your adventure upon
 
->[!secret]- 
+>[!secret]-
 > This should not be directly revealed to a player
 
 

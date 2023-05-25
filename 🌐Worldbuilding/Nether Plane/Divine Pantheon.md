@@ -63,7 +63,6 @@ Together, [[Leptys]] and [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Varuú
 ## Twins of Magic: [[Mysteria]], [[Lar]]
 [[Mysteria]] represents raw arcane energy - the untamed power that flows through the universe. Their domain encompasses magical potential in its purest form as well as the generation of Mana as chaotic forces. [[Mysteria]] symbolizes limitless possibilities found within magic but also highlights its inherent dangers when wielded without control or understanding.
 
-
 [[Lar]], on the other hand, governs the structured and disciplined aspects of magic. They are associated with the study, mastery, and application of magical knowledge in a controlled and focused manner. As a deity of order within magic, [[Lar]] encourages mortals to seek understanding and mastery over their arcane abilities to harness its potential safely and effectively.
 
 Together, [[Mysteria]] and [[Lar]] maintain a balance between the untamed potential of magic and its controlled application in the hands of mortal beings. They ensure that magic remains both a powerful force in the world yet tempered by wisdom and discipline.
