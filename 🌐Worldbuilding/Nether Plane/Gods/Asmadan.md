@@ -14,7 +14,7 @@ dg-publish: true
 Asmadan, the deity of fire and combat, is a vengeful being who takes great pleasure in wreaking havoc upon enemies. His very presence can ignite an intense inferno, consuming all who dare to oppose them.
 
 > [!TIP] Quick Reference
-> ![[Asmadan.png| 300]]{width=50%} 
+> ![[Asmadan.png| 100]]
 > **Asmadan** 
 >  The Deity of Fire and Combat
 >- **Domains**: Fire, Combat

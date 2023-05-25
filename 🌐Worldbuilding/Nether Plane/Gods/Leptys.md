@@ -9,7 +9,7 @@ dg-publish: true
 ### Leptys
 - Title : The Beginning    
 - Domain : Life, Fertility   
-- Virtue : Intelligence, Proud
+- Virtue : Intelligence, Pride
 
 > [!quote] "
 
