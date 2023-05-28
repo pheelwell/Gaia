@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"type":"file","file":"Pasted image 20230527110232.png","id":"d0c36365d3ea00aa","x":-240,"y":-340,"width":381,"height":400},
+		{"type":"file","file":"🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes.md","id":"f7234d91b0be8e30","x":-780,"y":-440,"width":460,"height":820},
+		{"type":"file","file":"Isranian Zelot.png","id":"bb6924ee07860164","x":280,"y":-260,"width":301,"height":400},
+		{"type":"file","file":"Pasted image 20230527110514.png","id":"4bcbaab0d43adcf0","x":260,"y":220,"width":301,"height":400},
+		{"type":"file","file":"Pasted image 20230527110522.png","id":"db3ef5ad3e814faf","x":-60,"y":300,"width":301,"height":400},
+		{"type":"file","file":"Pasted image 20230527110551.png","id":"e44f6be4fa186b12","x":680,"y":220,"width":301,"height":400},
+		{"type":"file","file":"Zersas.png","id":"d5e8b1d78aa926ad","x":680,"y":-200,"width":400,"height":224}
+	],
+	"edges":[]
+}
