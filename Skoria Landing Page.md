@@ -23,4 +23,4 @@ Let the adventure begin!
 
 ![Changelog]
 
-For any updates or changes made to this digital garden, please refer to our ![[Changelog]].
+For any updates or changes made to this digital garden, please refer to our ![[Changelog]]

@@ -7,6 +7,6 @@ Im Gasthaus von Tiebel finden Reisende eine warme Mahlzeit und eine gemütliche 
 
 Jährlich findet in Tiebel ein großes Fest statt, bei dem die Bewohner ihre Arbeit ruhen lassen und gemeinsam feiern. Bei diesem Fest werden Wettkämpfe in verschiedenen Disziplinen wie Bergbau, Schmiedekunst oder Bogenschießen veranstaltet. Der Höhepunkt des Festes ist die Verleihung des Titels "Meister der Klingenwand" an denjenigen, der sich in den Wettkämpfen besonders hervorgetan hat.
 
-In Tiebel herrscht ein rauer, aber herzlicher Umgangston. Die Bewohner sind stolz auf ihre Arbeit und ihr Dorf und heißen Besucher willkommen, solange sie Respekt zeigen und bereit sind, die lokale Kultur kennenzulernen.
+In Tiebel herrscht ein rauer, aber herzlicher Umgangston. Die Bewohner sind stolz auf ihre Arbeit und ihr Dorf und heißen Besucher willkommen, solange sie Respekt zeigen.
 
 ![[Tiebel.png]]

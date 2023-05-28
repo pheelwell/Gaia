@@ -15,14 +15,14 @@ sum:
 status: Sprout
 ---
 
-## Twins of Luminance: [[Sori]], [[Luniam]]
-[[Sori]] and [[Luniam]] are the deities of light, representing the sun and the moon respectively. 
+## Twins of Luminance: [[Sori]], [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]]
+[[Sori]] and [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]] are the deities of light, representing the sun and the moon respectively. 
 
 [[Sori]], the god of the sun, is associated with warmth, life, and growth. Their domain encompasses energy, vitality, and healing. As a deity of light and life, [[Sori]] is often revered for their kindness and nurturing qualities. Their virtues include compassion, generosity, and wisdom.
 
-[[Luniam]], on the other hand, represents the beauty of night and the element of stars. They govern over dreams, intuition, and mystery. While [[Sori]] brings clarity and illumination during the day, [[Luniam]] embraces the shadows and uncertainty that come with nightfall. Their virtues include introspection, imagination, and adaptability.
+[[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]], on the other hand, represents the beauty of night and the element of stars. They govern over dreams, intuition, and mystery. While [[Sori]] brings clarity and illumination during the day, [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]] embraces the shadows and uncertainty that come with nightfall. Their virtues include introspection, imagination, and adaptability.
 
-Together, [[Sori]] and [[Luniam]] symbolize harmony between day and night as well as balance between knowledge and intuition.
+Together, [[Sori]] and [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]] symbolize harmony between day and night as well as balance between knowledge and intuition.
 
 ## Twins of Winds: [[Carillea]], [[Nomphis]]
 [[Carillea]] represents gentle breezes, guiding winds, and whispers in the air. They are associated with guidance, communication, and [[inspiration]]. 
@@ -39,12 +39,12 @@ Together, [[Sori]] and [[Luniam]] symbolize harmony between day and night as wel
 
 Together, [[Arathor]] and [[Umbrial]] maintain a balance between order and chaos in both mortal societies as well as throughout nature.
 
-## Twins of Temperature: [[Asmadan]], [[Drinera]]
-[[Asmadan]] governs heat, fire, and passion. Their domain covers energy, transformation, and desire. As a deity of warmth and intensity, [[Asmadan]] is often associated with courage, determination, and ambition. Their virtues include resilience, perseverance, and enthusiasm. [[Asmadan]] is also connected to combat and the thrill of the fight while being cautious about uncontrolled anger or wrath.
+## Twins of Temperature: [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan]], [[Drinera]]
+[[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan]] governs heat, fire, and passion. Their domain covers energy, transformation, and desire. As a deity of warmth and intensity, [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan]] is often associated with courage, determination, and ambition. Their virtues include resilience, perseverance, and enthusiasm. [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan]] is also connected to combat and the thrill of the fight while being cautious about uncontrolled anger or wrath.
 
 [[Drinera]] embodies coldness, ice, and tranquility. Their domain involves stillness, preservation, and reflection. As a deity of coolness and serenity, [[Drinera]] symbolizes patience, wisdom, and inner peace. Their virtues include contemplation, restraint, and acceptance.
 
-Together, [[Asmadan]] and [[Drinera]] maintain a balance between extreme heat and cold in the world's climates as well as the emotional spectrum within mortal beings.
+Together, [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan]] and [[Drinera]] maintain a balance between extreme heat and cold in the world's climates as well as the emotional spectrum within mortal beings.
 
 ## Twins of Wild Whims: [[Narkis]], [[Nefaris]]
 [[Narkis]] is the deity of artistry and creativity. They govern over [[inspiration]] within various forms such as music or painting as well as promoting self-expression through artistic endeavors that reflect one's soul or innermost desires. [[Narkis]] encourages mortals to explore their talents while appreciating beauty found within creative works or natural wonders alike.

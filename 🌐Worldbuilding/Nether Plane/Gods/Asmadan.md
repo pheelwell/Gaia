@@ -14,9 +14,9 @@ dg-publish: true
 Asmadan, the deity of fire and combat, is a vengeful being who takes great pleasure in wreaking havoc upon enemies. His very presence can ignite an intense inferno, consuming all who dare to oppose them.
 
 > [!TIP] Quick Reference
-> ![[Asmadan.png| 300]]{width=50%} 
-> **Asmadan** 
->  The Deity of Fire and Combat
+> ![[Asmadan.png|300]]
+> 
+The Deity of Fire and Combat
 >- **Domains**: Fire, Combat
 >- **Symbols**: Blazing flames, Hammers or Axes engulfed in fire
 >- **Worshipers**: Warriors seeking victory in battle, pyromancers, barbarians
@@ -32,6 +32,7 @@ Asmadan, the deity of fire and combat, is a vengeful being who takes great pleas
 ## Ideals
 
 
+
 ## Worshipers
 
 
@@ -42,10 +43,10 @@ Temples dedicated to Asmadan are usually adorned with fiery motifs and symbols d
 ## History
 Asmadan's origins are rooted in conflict and destruction. Born from the ashes of countless battles, he embodies the primal rage that fuels the fire in the heart of any warrior. Wild at heart, ignited by victory. 
 In the early times Asmadan had the shape of a very sinister and wild beast, wielding a hammer followed by a swath of desolation. In the time of the shattering Asmadan upgraded his wargear, he is wearing a dark Armor and fiery weapons.
-![[Asmadan 2.png]]
+![[Asmadan 2.png|300]]
 
 ## The Birth of Fire Magic
-It is believed that Asmadan was the first deity to wield fire magic. He created it through some nodes which were powered by [[Mysteria]]. The existence of this magic lead many magicians and other magical beeings to practise the flame of [[Asmadan]].
+It is believed that Asmadan was the first deity to wield fire magic. He created it through some nodes which were powered by [[Mysteria]]. The existence of this magic lead many magicians and other magical beeings to practise the flame of [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan]].
 
 # Roleplaying
 ## Goals and Motivations
@@ -65,7 +66,7 @@ When roleplaying as a follower of Asmadan, embrace your character's wrath and ch
 
 # Trivia
 - Some believe that Asmadan was once a mortal warrior who ascended to godhood after countless victories in battle.
-- Some ancient texts claim that the first fire magic spells were taught to mortals by [[Asmadan]] himself.
+- Some ancient texts claim that the first fire magic spells were taught to mortals by [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan]] himself.
 - Domain: Fire
 - Associated Element: Combat
 - Virtue: Wrath

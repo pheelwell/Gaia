@@ -9,14 +9,14 @@ dg-publish: true
 ### Leptys
 - Title : The Beginning    
 - Domain : Life, Fertility   
-- Virtue : Intelligence, Proud
+- Virtue : Intelligence, Pride
 
 > [!quote] "
 
 ## Overview
 
 > [!TIP] Quick Reference
-> ![Placeholder.png| 300]
+> ![[Leptys.png| 300]]
 > **Leptys**
 > Deity of Life and Fertility
 >- **Domains**: Life, Fertility
@@ -61,3 +61,5 @@ dg-publish: true
 
 
 # Trivia
+
+isst gerne kuchen
