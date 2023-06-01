@@ -16,7 +16,7 @@ dg-publish: true
 Luniam, the enigmatic deity of the Moon, casts a watchful eye over the world as night falls. Associated with the element of Stars, this celestial god weaves a tapestry of secrets and mysteries that only the most devoted followers can hope to unravel.
 
 > [!TIP] Quick Reference
-> ![[🌐Skoria/Pictures/Luniam| 300]] 
+> ![[Luniam.png| 300]] 
 > **Luniam** 
 > The Enigmatic Deity of the Moon
 >- **Domains**: Moon, Stars
