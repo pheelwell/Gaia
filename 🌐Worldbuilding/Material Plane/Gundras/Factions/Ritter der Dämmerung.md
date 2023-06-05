@@ -7,7 +7,7 @@ Die Ritter der Dämmerung sind in zwei Hauptgruppen unterteilt: die Schmiede und
 
 Innerhalb dieser Gruppen gibt es verschiedene Ränge:
 
-- Nebelschmiede: Die erfahrensten Schmiede mit den besten Fähigkeiten im Umgang mit Nebelstahl.
+- Nebelschmiede: Die erfahrensten Schmiede mit den besten Fähigkeiten im Umgang mit Nebelstahl. Es gibt nur sehr wenige dieser Meister.
 - Gesellen: Mittlere Schmiede, die bereits Erfahrung haben, aber noch nicht den höchsten Stand erreicht haben.
 - Lehrlinge: Junge Schmiede, die gerade erst anfangen, die Kunst des Schmiedens zu erlernen.
 
