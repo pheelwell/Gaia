@@ -1,4 +1,4 @@
-![[Skoria World Map.png]]
+![[Skoria Map.png]]
 
 # Welcome to Skoria
 
