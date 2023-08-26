@@ -19,7 +19,7 @@ status: sprout
 Once a powerful and enigmatic God of Discord and Chaos, Umbrial now remains as a barely known figure in the mortal realm. Banished by other gods and killed during the Shattering, his influence has vanished from the world. With no cults or followers to carry on his legacy, his domain has been distributed among the other gods in the Divine Pantheon.
 
 > [!TIP] Quick Reference
-> ![[Umbrial.png| 300]]
+> ![[🌐Skoria/Pictures/Umbrial.png| 300]]
 > **Umbrial** 
 > God of Discord and Chaos (deceased)
 >- **Domains**: Discord, Chaos
