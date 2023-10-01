@@ -13,7 +13,7 @@ dg-publish: true
 - Associated  Element : Undeath        
 - Virtue : Knowledge / Wisdom
 
-> [!quote] "Varuún, the Death, whispers secrets from beyond the veil. Embrace the wisdom of undeath and unlock mysteries lost to the living."
+> [!quote] "You are mortal? Soon we will meet in the nether!"
 
 ## Overview
 Varuún, known as The Death, is a deity of death and undeath, associated with the element of Undeath. Worshipers seek knowledge and wisdom through their connection to this enigmatic deity.
@@ -24,14 +24,14 @@ Varuún, known as The Death, is a deity of death and undeath, associated with th
 > **Varuún** 
 >  The enigmatic deity of death and undeath
 >- **Domains**: Death, Undeath
->- **Symbols**: Skulls, dark robes, hourglasses
->- **Worshipers**: Necromancers, scholars of mortality, undead beings
+>- **Symbols**: Skull with four eyes, four eyes
+>- **Worshipers**: everyone who has to do something with death 
 > ____
 >- **Alignment**: Neutral Evil
 >- **Allies**: Deities of knowledge and secrets
->- **Enemies**: Deities of life and healing
+>- **Enemies**: Almost none. 
 >____
->-  **History**: A being born from the shadows between life and death.
+>-  **History**: A being born from the shadows between life and death. Ascended from the nether to feast upon the souls of the living. 
 >- **Roleplaying Tips**: Embrace mystery and intrigue; be a seeker of forbidden knowledge.
 
 # Religion
