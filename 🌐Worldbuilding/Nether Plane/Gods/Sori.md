@@ -11,7 +11,7 @@ dg-publish: true
 - Associated Element: Nature
 - Virtue: Morality 
 
-> [!quote] "As the sun rises in the east, so does Sori's light illuminate the path for all who seek tranquility."
+> [!quote] "As the sun rises, so does Sori's light illuminate the path for all who seek tranquility."
 
 ## Overview
 Sori, the deity of the sun and nature, embodies the virtue of morality. This benevolent being is a beacon of hope for those who walk in their radiant light, guiding them towards a righteous path. Followers of Sori strive to uphold their deity's ideals and live a life filled with goodness and compassion.
