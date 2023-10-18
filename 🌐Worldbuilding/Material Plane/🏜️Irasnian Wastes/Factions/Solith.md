@@ -7,10 +7,10 @@ sum:
   - Their appearance includes hues of brown and yellow to blend with their desert environment.
   - Despite their formidable physical capabilities, the Solith are not aggressive and value cooperation.
   - They regard nature highly and their culture revolves around survival techniques and storytelling traditions.
-  - In Solith society, status is determined by one's contribution to community survival rather than wealth or lineage. 
+  - In Solith society, status is determined by one's contribution to community survival rather than wealth or lineage.
   - A decentralized government structure exists where decisions are made at community gatherings by wise elders or proven leaders.
   - Occasional conflicts arise due to cultural misunderstandings with other races in Quorritset but they typically maintain peaceful relationships.
-  - A secretive faction within both the Solith and Quorri races aims for racial supremacy which could cause conflict if not addressed discreetly. 
+  - A secretive faction within both the Solith and Quorri races aims for racial supremacy which could cause conflict if not addressed discreetly.
 status: sprout
 ---
 
@@ -18,7 +18,7 @@ status: sprout
 
 # An Insight into the Solith of [[Quorritset]]
 
-Hailing from the unforgiving landscape of [[Irasnian Wastes]], the native insectoid species, the Solith, have evolved to thrive in their harsh desert homeland. They have built a unique society within the city walls of [[Quorritset]], overcoming significant cultural discrepancies and occasional discord to share their habitat with another race – the reptilian [[Quorri]].
+Hailing from the unforgiving landscape of [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]], the native insectoid species, the Solith, have evolved to thrive in their harsh desert homeland. They have built a unique society within the city walls of [[Quorritset]], overcoming significant cultural discrepancies and occasional discord to share their habitat with another race – the reptilian [[Quorri]].
 
 The Solith's appearance mirrors their environment; their exoskeletons incorporate various hues of brown and yellow, providing a natural camouflage against the sand dunes. Equipped with multiple limbs and antennae that offer enhanced senses crucial for desert living, they are formidable warriors and industrious workers.
 
@@ -48,6 +48,8 @@ A clandestine faction exists within both races aiming for racial supremacy over 
 
 ## Conclusion
 
-Understanding the Solith's unique societal structure can enhance adventures set within [[Quorritset]] or any parts of [[Irasnian Wastes]] inhabited by these resilient insectoids.
+Understanding the Solith's unique societal structure can enhance adventures set within [[Quorritset]] or any parts of [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]] inhabited by these resilient insectoids.
 Whether they become allies or adversaries would depend on how tactfully your party navigates through interactions with this fascinating race - promising a blend of challenges and rewards for those who dare venture into this sandy realm.
+
+
 

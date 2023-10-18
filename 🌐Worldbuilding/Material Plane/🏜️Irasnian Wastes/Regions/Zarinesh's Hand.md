@@ -9,7 +9,7 @@ As you join a group of pilgrims on their climb up the massive stone fingers of Z
 
 # Overview
 
-In the heart of the harsh [[Irasnian Wastes]], a colossal stone hand rises from the sands, capturing the wonder and reverence of all who behold it. This magnificent monument, known as [[Zarinesh's Hand]], is believed to be the severed hand of the deity [[Zarinesh]]. A symbol of faith and hope, it serves as a beacon for those who dare to call this unforgiving land their home.
+In the heart of the harsh [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]], a colossal stone hand rises from the sands, capturing the wonder and reverence of all who behold it. This magnificent monument, known as [[Zarinesh's Hand]], is believed to be the severed hand of the deity [[Zarinesh]]. A symbol of faith and hope, it serves as a beacon for those who dare to call this unforgiving land their home.
 
 > [!quickref]
 > Overview: Colossal stone hand in Irasnian Wastes believed to belong to deity Zarinesh
@@ -37,7 +37,7 @@ The surrounding sands also conceal dangerous predators, from scorpions and venom
 
 # Population
 ## Culture and Religion:
-Zarinesh's Hand plays a central role in the cultural identity and religious beliefs of those who inhabit the [[Irasnian Wastes]]. The people of Ergon, in particular, venerate Zarinesh as their divine benefactor, who has allowed them to thrive despite the region's desolate nature. This reverence is demonstrated through various religious practices that center around the colossal hand itself.
+Zarinesh's Hand plays a central role in the cultural identity and religious beliefs of those who inhabit the [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]]. The people of Ergon, in particular, venerate Zarinesh as their divine benefactor, who has allowed them to thrive despite the region's desolate nature. This reverence is demonstrated through various religious practices that center around the colossal hand itself.
 
 However, there are also more obscure sects that worship different aspects of Zarinesh's Hand. These groups may seek to harness its power for their own ends or believe that resurrecting Zarinesh will bring about a new age of prosperity for the wasteland.
 

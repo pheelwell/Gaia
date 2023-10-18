@@ -8,13 +8,13 @@ status: sprout
 
 ## Overview
 
-Ergon, the City of [[Zarinesh's Hand]], stands as a beacon of life and prosperity amidst the harsh [[Irasnian Wastes]]. Built within the enigmatic crevices of [[Zarinesh's Hand]], this thriving metropolis offers refuge to weary travelers and merchants alike. Named after the ancient deity [[Zarinesh]], who is believed to have created the land it inhabits, Ergon's unique location has shaped its culture and way of life, attracting adventurers from all corners of the world.
+Ergon, the City of [[Zarinesh's Hand]], stands as a beacon of life and prosperity amidst the harsh [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]]. Built within the enigmatic crevices of [[Zarinesh's Hand]], this thriving metropolis offers refuge to weary travelers and merchants alike. Named after the ancient deity [[Zarinesh]], who is believed to have created the land it inhabits, Ergon's unique location has shaped its culture and way of life, attracting adventurers from all corners of the world.
 
 ## Notable Locations
 
 ### [[The Helix Plaza]]
 
-Located at the heart of Ergon, the Helix Plaza serves as the city's main trading hub and gathering place. The plaza is a vibrant and bustling marketplace, where merchants from all across the [[Irasnian Wastes]] come to sell their exotic goods, ranging from precious metals to rare spices and fabrics.
+Located at the heart of Ergon, the Helix Plaza serves as the city's main trading hub and gathering place. The plaza is a vibrant and bustling marketplace, where merchants from all across the [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]] come to sell their exotic goods, ranging from precious metals to rare spices and fabrics.
 
 ### [[The Sunspire]]
 
@@ -58,7 +58,7 @@ Naleen is a charismatic entrepreneur who owns The Gilded Dune Tavern – one of 
 
 The government of Ergon is an oligarchy, where a council of influential citizens, including Master Artificer Tornas, High Priestess Hara, and Captain Ishara, make decisions for the city's welfare. This council ensures that trade routes remain open and prosperous while maintaining good relations with neighboring settlements and nomadic tribes.
 
-Ergon's economy is primarily centered around trade, as its location within the [[Irasnian Wastes]] makes it a vital stopover point for caravans traversing the harsh desert. The city's skilled artisans are known for their craftsmanship in creating unique goods using materials scavenged from [[Zarinesh's Hand]]. These items are highly sought after by merchants and collectors throughout the wastes.
+Ergon's economy is primarily centered around trade, as its location within the [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]] makes it a vital stopover point for caravans traversing the harsh desert. The city's skilled artisans are known for their craftsmanship in creating unique goods using materials scavenged from [[Zarinesh's Hand]]. These items are highly sought after by merchants and collectors throughout the wastes.
 
 Ergon's oasis plays a crucial role in sustaining the city's economy, as it provides precious water to both its inhabitants and traveling merchants. The city has established strict regulations to ensure that the oasis is not over-exploited or polluted.
 
@@ -68,7 +68,7 @@ Ergon's oasis plays a crucial role in sustaining the city's economy, as it provi
 
 # Diplomatic Relations:
 
-Ergon maintains diplomatic relations with other settlements in the [[Irasnian Wastes]], as well as several nomadic tribes who rely on trade with the city for their survival. While relationships between these groups are generally amicable, disputes can arise over resources or territory, leading to tense negotiations or even skirmishes.
+Ergon maintains diplomatic relations with other settlements in the [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]], as well as several nomadic tribes who rely on trade with the city for their survival. While relationships between these groups are generally amicable, disputes can arise over resources or territory, leading to tense negotiations or even skirmishes.
 
 The ruling council of Ergon places great importance on maintaining good relations with its neighbors. As such, they often send emissaries to other settlements and tribes to discuss trade agreements, resolve disputes, and share knowledge about the harsh desert environment.
 
@@ -103,7 +103,7 @@ In addition to [[Zarinesh]] worship, Ergon also embraces animistic beliefs cente
 
 # Geography and Climate:
 
-Located within the harsh [[Irasnian Wastes]], Ergon faces an unforgiving desert climate with scorching temperatures during the day and freezing nights. The city's unique location within [[Zarinesh's Hand]] offers some protection against these harsh conditions, while its oasis provides life-sustaining water for its inhabitants.
+Located within the harsh [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]], Ergon faces an unforgiving desert climate with scorching temperatures during the day and freezing nights. The city's unique location within [[Zarinesh's Hand]] offers some protection against these harsh conditions, while its oasis provides life-sustaining water for its inhabitants.
 
 > [!read] As you enter Helix Plaza, you're immediately struck by the vibrant atmosphere of this bustling market. Exotic spices fill the air with their intoxicating aroma, while street performers entertain passersby with feats of acrobatics and sleight-of-hand. Merchants display their unique wares, crafted from scavenged parts of [[Zarinesh's Hand]], drawing curious onlookers and potential buyers alike.
 

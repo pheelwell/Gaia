@@ -1,7 +1,7 @@
 ## Introduction
 Relakra is a humanoid, nomadic race distinguishable by their unique ability to sense and feed on the emotions of other races and the glowing orb in place of their heart. This orb changes form based on the emotions they feed on, visual indicators of their emotional state. They do not cause any harm or loss of emotion to others, but they cannot thrive on their own kind's emotions, leading them to lead solitary lives or integrate into other societies. 
 
-Relakras age rapidly but feeding on emotions can prolong their lifespan, with most Relakras living up to 40 years if they consistently nourish on emotions.
+Relakras age rapidly but feeding on emotions can prolong their lifespan, with most Relakras living up to 30 years if they consistently nourish on emotions.
 
 ![[Curious Relakra 1.png]]
 

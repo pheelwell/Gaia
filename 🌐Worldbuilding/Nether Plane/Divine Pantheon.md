@@ -25,7 +25,7 @@ status: Sprout
 Together, [[Sori]] and [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Luniam]] symbolize harmony between day and night as well as balance between knowledge and intuition.
 
 ## Twins of Winds: [[Carillea]], [[Nomphis]]
-[[Carillea]] represents gentle breezes, guiding winds, and whispers in the air. They are associated with guidance, communication, and [[inspiration]]. 
+[[Carillea]] represents gentle breezes, guiding winds, and whispers in the air. They are associated with guidance, communication, and [[Inspiration]]. 
 
 [[Carillea]] promotes understanding between individuals as well as providing direction to those who are lost or seeking a path in life.
 
@@ -47,7 +47,7 @@ Together, [[Arathor]] and [[Umbrial]] maintain a balance between order and chaos
 Together, [[🌐Skoria/🌐Worldbuilding/Nether Plane/Gods/Asmadan]] and [[Drinera]] maintain a balance between extreme heat and cold in the world's climates as well as the emotional spectrum within mortal beings.
 
 ## Twins of Wild Whims: [[Narkis]], [[Nefaris]]
-[[Narkis]] is the deity of artistry and creativity. They govern over [[inspiration]] within various forms such as music or painting as well as promoting self-expression through artistic endeavors that reflect one's soul or innermost desires. [[Narkis]] encourages mortals to explore their talents while appreciating beauty found within creative works or natural wonders alike.
+[[Narkis]] is the deity of artistry and creativity. They govern over [[Inspiration]] within various forms such as music or painting as well as promoting self-expression through artistic endeavors that reflect one's soul or innermost desires. [[Narkis]] encourages mortals to explore their talents while appreciating beauty found within creative works or natural wonders alike.
 
 [[Nefaris]] represents mischief but also spontaneity in life's unexpected twists and turns. They embody unpredictability, reveling in the chaos that comes from sudden changes or surprises while enjoying the thrill of uncertainty itself. [[Nefaris]] encourages mortals to embrace life's whimsical nature and to adapt to whatever challenges may arise.
 
