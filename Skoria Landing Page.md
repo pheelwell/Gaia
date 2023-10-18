@@ -13,6 +13,8 @@ Delve into the mystical world of [[Skoria]], a land filled with secrets, history
 - The rich [[Divine History]] of gods and deities
 - The captivating cities and cultures within [[Skoria]]
 - The city of [[Ergon]] in the [[Irasnian Wastes]] 
+- The mysterious water blockade in [[Levia]]
+
 
 Explore unique subclasses such as:
 - The enigmatic [[Shadow Hunter]]
