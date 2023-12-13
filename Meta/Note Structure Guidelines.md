@@ -1,9 +1,15 @@
+---
+title: Note Structure Guidelines
+date created: Friday, October 6th 2023, 6:38:52 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
+---
 
 ---
 type: Meta
 dg-publish: true
 ---
 # Folder Structure
+
 Obsidian notes in this Repo are structured this way:
 
 ```
@@ -38,6 +44,7 @@ Obsidian notes in this Repo are structured this way:
 ```
 
 # Frontmatter
+
 Frontmatter helps with the organization and categorization of notes. It should be included at the beginning of each note and follow this general structure:
 
 ```yaml
@@ -71,6 +78,7 @@ Note content goes here.
   - `willow`: a deprecated note that needs trimming or is outdated.
 
 # Formatting
+
 It is a good idea to follow this guideline for writing notes:
 
 - Start with a flavor Text

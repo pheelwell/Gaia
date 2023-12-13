@@ -1,13 +1,16 @@
 ---
 type: Deity
 sum:
-- Title: Brother of Oceans 
-- Domain: Water 
-- Associated Element: Calmness 
-- Virtue: Friendship 
+- "Title: Brother of Oceans" 
+- "Domain: Water" 
+- "Associated Element: Calmness" 
+- "Virtue: Friendship" 
 dg-publish: true
+title: Geran
+date created: Friday, October 6th 2023, 6:38:58 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
-### Geran
+
 - Title: Brother of Oceans 
 - Domain: Water 
 - Associated Element: Calmness 
@@ -16,6 +19,7 @@ dg-publish: true
 > [!quote] "Fear not, my friend, for the waters! Geran shall guide and protect us on our journey." - A sailor praying to Geran
 
 ## Overview!
+
 Geran, known as the Brother of Oceans, the brother of [[Ocea]], is a deity who embodies the serene waters. With a domain in water and an associated element of calmness, Geran stands as a beacon of support for those who travel the seas. 
 
 > [!TIP] Quick Reference
@@ -36,8 +40,8 @@ Geran, known as the Brother of Oceans, the brother of [[Ocea]], is a deity who e
 # Religion
 ## Ideals
 
-
 ## Worshipers
+
 Sailors, fishermen, sea dwellers—anyone who spends their lives surrounded by water—is drawn to worship Geran. His followers often form tight-knit communities that value trust and cooperation above all else. They believe that through their bond with Geran's calming waters they can overcome any storm or challenge that comes their way.
 
 ## Temples
@@ -45,16 +49,17 @@ Sailors, fishermen, sea dwellers—anyone who spends their lives surrounded by w
 # Lore
 ## History
 
-
 ## The Sea's Embrace
 
 # Roleplaying
 ## Goals and Motivations
 
 ## Appearance and Visions
+
 When Geran appears to mortals in visions or dreams, he often takes the form of a figure surrounded by serene waves or a gentle cascade of water. His presence embodies tranquility and peace, allowing those who experience it to feel at ease even in their darkest moments.
 
 ## Personality Traits
+
 Geran values friendship and calmness. 
 
 ## Roleplaying Guide

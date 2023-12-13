@@ -1,10 +1,16 @@
 ---
 dg-publish: true
 type: Meta
+title: Example Site
+date created: Friday, October 6th 2023, 6:38:58 pm
+date modified: Monday, December 11th 2023, 5:54:53 pm
+banner: "![[Zarineshian Temple.png]]"
 ---
 
 # Example
+
 This is an example Obsidian note.
+
 ## Headers
 
 ```
@@ -33,8 +39,11 @@ This is an example Obsidian note.
 ```
 
 **Bold**
+
 *Italic*
+
 ~~Strikethrough~~
+
 `Inline code`
 
 ## Lists
@@ -52,13 +61,15 @@ Ordered list:
 ```
 
 Unordered list:
+
 - Item 1
-    - Subitem 1.1 
+	- Subitem 1.1 
 - Item 2
 
 Ordered list:
+
 1. Item 1
-    1. Subitem 1.1 
+	1. Subitem 1.1 
 2. Item 2 
 
 ## Links and Images
@@ -109,7 +120,6 @@ Ordered list:
 
 >[!secret]-
 > This should not be directly revealed to a player
-
 
 ## Code Blocks
 
@@ -184,6 +194,7 @@ $$
 Inline equation: $E=mc^2$
 
 Block equation:
+
 $$
 \frac{d}{dx}(f(x) + g(x)) = \frac{d}{dx}f(x) + \frac{d}{dx}g(x)
 $$

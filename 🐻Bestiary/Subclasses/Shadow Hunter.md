@@ -2,7 +2,10 @@
 dg-publish: true
 title: Shadow Hunter
 type: Meta
+date created: Friday, October 6th 2023, 7:41:44 pm
+date modified: Monday, December 11th 2023, 5:54:51 pm
 ---
+
 You can choose the **Shadow Hunter** subclass for the **Rogue** class. 
 
 Shadow hunters are masters of voodoo and shadow magic and were once the highest authority amongst trolls. Their spirit powers is walking the line of dark and light in hope of saving the future of trollkind, doing whatever it takes to secure a future for their kin. The loa can channel themselves through the shadow hunters when they use their ceremonial rush'kah masks.
@@ -10,6 +13,7 @@ Shadow hunters are masters of voodoo and shadow magic and were once the highest 
 The Shaddow Hunters worship one of the major Loas. They do this by making Deals with them and following their ideals. The relationship between a Shaddow Hunter and his Loa differs from a Acolyte and his God. Loas are more seen as mentors and elders, it is not uncommon that Shaddow Hunters bicker and argue with their Loas. This leeds to Shaddow Hunters often temporarily falling out of Faith of the Loas. This can be made good with offerengs and deeds devoted to the Loa.
 
 #### Connections to the Loas
+
 When you choose this archetype at 3rd level, you can choose how your connections to the different Loas are.
 
 | State          | Meaning                                                                                      |
@@ -27,8 +31,6 @@ Pick 1 Loas that you worship.
 Pick 1 Loa that you have angered.
 
 Pick 1 Loa that you have a Deal with, needing to be resolved.
-
-
 
 | Loa        | Description                 |
 | - | - |
@@ -66,6 +68,7 @@ If a Loa is not interested in you, you can wake its interest by doing something 
 Starting at 3rd level, you gain the ability to earn favors by the loas worshiped by your tribe.
 
 You can prepare favors of the Loas as a ritual cast. You can prepare two favors, which you can hold until your next long rest, at witch you have to prepare them again.
+
 Favors of Loas are expended as a bonus action.
 
 ##### Shadra
@@ -112,8 +115,8 @@ When you prepare your potion roll 2d6. Those are the effects for the Potion.
   | 6   | +2 to one of your Saving Throws |
 
 You can create this brew once per long rest and you can uphold only one potion at a time.
-The effect of these potions last until the start of your next long rest.
 
+The effect of these potions last until the start of your next long rest.
 
 #### Unfavorable Deal
 
@@ -130,6 +133,7 @@ Making a Unfavorable Deal with Shadra, you are surrounded by a glowing outline o
 While in the state of desire, you gain the following benefits:
 
 -You gain two additional attacks when you take the attack action.
+
 -You can use your action to make a bite attack against a creature within reach. On a hit, the creature takes 1d4 piercing damage. On a successfull hit the creature is paralyzed until the end of its turn.
 
 The state of desire lasts for 1 minute. If there are no Hostile to attack, you proceed to try to attack the weakest creature to you. It ends early if you are knocked Unconscious or if Your Turn ends and you haven't damaged a creature since your last turn or taken damage since then.
@@ -137,6 +141,7 @@ The state of desire lasts for 1 minute. If there are no Hostile to attack, you p
 ##### Shirvallah: Rampage
 
 Making a Unfavorable Deal with Shirvallah, your hands are surrounded by a glowing outline of tiger claws and you fall into a Rage.
+
 While raging, you gain the following benefits:
 
 - You have advantage on Strength checks and Strength Saving Throws.
@@ -182,8 +187,8 @@ Making a Unfavorable Deal with Bwomsamdi, you can choose one creature within 5 f
 #### Ceremonial Mask
 
 Starting at 17th level, you can choose a ceremonial Mask as a focus for your Loa. The Mask is made of wood or clay. You can use this mask to channel your Loas.
-You can wear the Mask for 10 minutes. The Mask falls off your face after the 10 minutes. After that you can't use the Mask again until you finish a short or long rest.
 
+You can wear the Mask for 10 minutes. The Mask falls off your face after the 10 minutes. After that you can't use the Mask again until you finish a short or long rest.
 
 | Loa        | Mask Effect                                                                                                                                                                                                                                                                                        |
 | - | -- |
@@ -193,6 +198,3 @@ You can wear the Mask for 10 minutes. The Mask falls off your face after the 10 
 | Hir'eek    | While wearing the Mask you can choose to gain the benefit of the second wind feature.                                                                                                                                                                                                              |
 | Hethiss    | While wearing the Mask you can choose to have your weapon attacks target a creatures wisdom score instead of their armor class.                                                                                                                                                                    |
 | Bwomsamdi  | While wearing the Mask you can cast the Speak with Dead spell once without using a spell slot or material components. You must finish a long rest before you can use this feature again.                                                                                                           |
-
-
-

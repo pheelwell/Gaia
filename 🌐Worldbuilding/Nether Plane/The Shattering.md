@@ -1,3 +1,9 @@
+---
+title: The Shattering
+date created: Friday, October 6th 2023, 6:38:50 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
+---
+
 The Shattering was a cataclysmic event resulting from a dispute between two groups of gods. In the process of this dispute, most of the population of [[Skoria]] was wiped out, resetting the whole civilization and wiping out entire species. 
 
 - 85% of the civilization was wiped from [[Skoria]] 
@@ -11,4 +17,3 @@ The Shattering was a cataclysmic event resulting from a dispute between two grou
 - Gods agree not to directly interfere with one another to prevent the death of another God and block themselves from doing so by [???]
 - A group known as [[The Remnants]] may hold secrets about pre-shattering technology and knowledge, but they are elusive and their true intentions are unknown.
 - A prophecy speaks of a time when [[Umbrial]] will return from his grave to bring about a second Shattering unless stopped by heroes chosen by the gods. This prophecy is known as the [[Prophecy of Shadows]] and is a driving force for many adventurers who seek to become these legendary heroes and prevent another cataclysm.
-

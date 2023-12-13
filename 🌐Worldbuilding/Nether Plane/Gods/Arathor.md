@@ -7,11 +7,18 @@ sum:
   - Followers called League of Arathor uphold teachings and combat evil
   - Symbol is a radiant sun; temples built to catch sunlight
   - Ascended to godhood through unwavering determination and belief in justice
+title: Arathor
+date created: Wednesday, October 18th 2023, 10:19:51 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
+- Domain: Justice
+- Associated Element: Light
+- Virtue: Justice
 
-As the first rays of dawn pierce the darkness, illuminating the resplendent temple atop a mountain, a figure clad in shining armor kneels in prayer. Seeking guidance and strength from Arathor, the god of righteousness, order, and justice, they are filled with divine wisdom as the deity's thunderous voice resonates within their soul.
+> [!quote]  As the first rays of dawn pierce the darkness, illuminating the resplendent temple atop a mountain, a figure clad in shining armor kneels in prayer. Seeking guidance and strength from Arathor, the god of righteousness, order, and justice, they are filled with divine wisdom as the deity's thunderous voice resonates within their soul.
 
 ## Overview
+
 Arathor is known as the Radiant Judge due to their role in maintaining justice throughout mortal societies. As a deity of orderliness they represent fairness in judgment while ruling over concepts such as lawfulness or stability within society itself. Arathor is also associated with protection and safety, ensuring that all creatures can exist without fear of harm.
 
 > [!TIP] Quick Reference
@@ -31,31 +38,39 @@ Arathor is known as the Radiant Judge due to their role in maintaining justice t
 
 # Religion
 ## Ideals
+
 Arathor's teachings stress the significance of law and order within society. His followers are urged to exemplify these values through their actions and choices. They must pursue justice while maintaining empathy for those who have strayed from the path.
 
 ## Worshipers
+
 The [[League of Arathor]] are fervent followers of Arathor who dedicate their lives to propagating his message of justice and righteousness. As champions of order, they often clash with the forces of evil and chaos, employing their exceptional combat prowess to shield the innocent. Their mediation skills are frequently sought to resolve disputes and ensure that justice prevails.
 
 # Lore
 ## History
+
 Arathor's ascent to godhood is a testament to his unwavering resolve and fortitude. He faced innumerable trials and challenges, yet his steadfast devotion to justice and order propelled him into divine status. His tale serves as an inspiration for his followers who aspire to embody his unyielding commitment to righteousness.
 
 ## Temples
+
 Temples dedicated to Arathor are often constructed atop elevated hills or mountains, ensuring they stand as bastions of justice in the world below. These sacred places act as gathering points for the faithful who seek counsel and strength from their god through daily meditation and prayer.
 
 # Roleplaying
 ## Goals and Motivations
+
 Arathor strives to uphold righteousness in the world by fostering law and order within society. He tirelessly endeavors toward this aim by guiding his followers in meting out justice fairly while granting redemption to those who have lost their way.
 
 A distinguishing facet of Arathor's followers is their unwavering allegiance to the [[League of Arathor]]. This loyalty transcends any other earthly bond, rendering them formidable allies and fearsome foes.
 
 ## Appearance and Visions
+
 Arathor is commonly portrayed as a tall, imposing figure garbed in resplendent armor. His eyes blaze with fierce intensity, while his presence commands respect and reverence. When he speaks, his voice reverberates like thunder.
 
 ## Personality Traits
+
 Arathor personifies righteousness, order, and justice in every aspect of his existence. He is fair-minded when delivering judgment but remains unyielding towards those who perpetrate evil acts. Followers should aim to emulate these qualities while acknowledging the significance of redemption.
 
 ## Roleplaying Guide
+
 When roleplaying as a follower of Arathor, emphasize your character's commitment to upholding the law and seeking justice for all. Display courage in the face of adversity while maintaining compassion for those who have made mistakes.
 
 # Trivia

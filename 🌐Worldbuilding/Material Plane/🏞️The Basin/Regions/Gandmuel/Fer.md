@@ -4,6 +4,8 @@ alias:
 dg-publish: true
 title: Fer
 type: SideNPC
+date created: Friday, October 6th 2023, 7:41:44 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
 
 **Elf - Druid**
@@ -18,4 +20,3 @@ Fer is a very serious man who takes his duty as a druid very seriously. He's als
 | Bond  | Gandra. I care for her deeply and only want what's best for her.                                                  |
 | Flaw  | Tendancy to Overprotectiveness. I want to protect those I care about, even if it means making decisions for them. |
 | Quirk | Carries a staff with him at all times.                                                                            |
-

@@ -2,15 +2,21 @@
 dg-publish: true
 type: Meta
 sum:
+title: Nether Plane
+date created: Friday, October 6th 2023, 6:38:50 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
+
 In the cosmos of this realm, the gods hold sway over the forces that govern the world. These divine beings exist in pairs, each representing opposing forces, and they maintain a cosmic balance that allows life to flourish. As an adventurer in this world, understanding the rules and axioms that govern these gods will be crucial to your journey.
 
 # The Twin Gods
+
 The pantheon is defined by its duality; each god has an opposite, embodying opposing principles. For example, one god may represent creation, while their twin represents destruction. This balance resulted in the creation of the universe itself.
 
 These divine beings are not at war with each other but have entered into a peace treaty to maintain universal harmony. They often collaborate to achieve shared objectives or preserve cosmic order.
 
 # Divine Realms and Limitations
+
 The twin gods reside in a plane called the [[Nether Plane]] where they cannot directly interact with mortal affairs. Each deity has their own realm within this plane, filled with celestial creatures and divine beings who serve them.
 
 At the center of their demiplane is a celestial home where all gods can gather together or visit other realms belonging to different deities. Orbiting around this home are a sun and moon symbolizing their eternal balance.
@@ -18,6 +24,7 @@ At the center of their demiplane is a celestial home where all gods can gather t
 Despite their immense power, since [[The Shattering]] gods are unable to enter the mortal world directly or harm one another due to their peace treaty.
 
 # Worshippers and Divine Influence
+
 The power of these twin deities can only be channeled through worshippers who pray, perform rituals or offer sacrifices in their name. This divine energy strengthens their god's influence in the mortal world and allows them to grant boons or blessings to their followers.
 
 Worshippers of both gods often coexist within societies, recognizing that each deity plays an essential role in maintaining life and existence. However, rivalries and conflicts may arise between followers of opposing gods depending on differing ideologies and goals.

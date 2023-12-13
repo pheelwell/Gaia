@@ -2,16 +2,17 @@
 dg-publish: true
 title: Herbstbog
 type: Settlement
+date created: Friday, October 6th 2023, 7:41:44 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
-
 
 *The city of Herbstbog, a beacon of magical knowledge and trade, stands proud with its autumnal trees that never change color. Its streets descend towards the bustling harbor, where the echoes of sailors and merchants fill the air. The city holds many secrets, some sought by those who wish to uncover the truth or gain power, others hidden away to protect the innocent.*
 
 ## Overview
+
 Herbstbog is a thriving city with a population of around 23,000 inhabitants. It is renowned for its high academic research in magic and bustling water trade. Located next to a branch of the Stillfluss river, it connects the transport route from the [[Mines of Torrar]] to other cities by water. The city is divided into three main districts: Arcane Top, Gardens, and Harbor.
 
 ![[Herbstbog_map.png]]
-
 
 # Notable Locations:
 - [[Arcane Top]]: A district dedicated to academia and magic research.
@@ -20,18 +21,22 @@ Herbstbog is a thriving city with a population of around 23,000 inhabitants. It 
 
 # Notable Figures:
 - [[The Triad]]: The ruling political force in Herbstbog.
-- [[Uncle|Karl]] has one of his shops here
+- [[Uncle.md|Karl]] has one of his shops here
 
 # Politics and Economy:
+
 Herbstbog is governed by [[The Triad]], which oversees all aspects of life within its walls. Its economy thrives on water trade through its well-connected harbor as well as on magical research conducted at the prestigious University.
 
 # History:
+
 Herbstbog has grown over centuries into a center for both arcane knowledge and commerce due to its strategic location near Stillfluss river. Its history has seen many influential figures come and go, leaving behind secrets waiting to be discovered.
 
 # Culture and Religion:
+
 The city's culture is deeply rooted in the pursuit of magical knowledge, with citizens taking great pride in their city's educational prowess. Religion plays a lesser role in everyday life, although various faiths can be found throughout Herbstbog.
 
 # Threats and Rumors:
+
 Rumors abound of hidden secrets, arcane experiments, and powerful artifacts within Herbstbog. The city's defenses stand strong against potential threats, but intrigue and danger lurk in the shadows.
 
 # Campain Connections:
@@ -40,4 +45,5 @@ Rumors abound of hidden secrets, arcane experiments, and powerful artifacts with
 - The Gardens hold an ancient elven cemetery rumored to have a ritual capable of opening portals to other realms.
 
 # Geography and Climate:
+
 Herbstbog is nestled next to a sidearm of the Stillfluss river, which provides access to water trade routes. The city enjoys a mild climate with autumnal trees that never change color, creating a picturesque backdrop for its architecture.

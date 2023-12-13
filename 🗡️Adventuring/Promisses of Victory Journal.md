@@ -1,3 +1,8 @@
+---
+title: Promisses of Victory Journal
+date created: Friday, October 6th 2023, 6:38:52 pm
+date modified: Monday, December 11th 2023, 5:54:51 pm
+---
 # Journal
 
 ## Chapter 1: The Dragonhunt Begins
@@ -8,7 +13,7 @@
 ## Chapter 2: A Stop at [[Duesternest]]
 - The party stops at [[Duesternest]] where they learn about [[Stoalium]], that the citizens do not like it, and that the shipment of the metal is controlled by the mysterious organization known as [[The Triad]]
 
-## Chapter 3: The [[Artifact of Chaos (Arc)]]
+## Chapter 3: The [[Arc)](Artifact of Chaos (Arc|Artifact of Chaos (Arc)]].md)
 - The party stops at [[Falk]] to deliver a package to [[Dr Phalando]] who refuses to take it. The item seems to be the [[Tear of the Archdevil]], and he tells the party to keep it safe, since it is a powerful artifact
 
 ## Chapter 4: Conflict at [[Defilers]] Lumbermills

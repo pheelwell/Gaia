@@ -2,6 +2,9 @@
 type: Settlement
 dg-publish: true
 status: sprout
+title: Ergon
+date created: Wednesday, October 18th 2023, 10:19:51 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
 
 > [!quote] "The people of Ergon are like cacti in the desert - resilient, adaptable, and able to make use of every resource at their disposal." - A proud Ergonian citizen
@@ -32,7 +35,7 @@ Hidden within a maze-like network of tunnels beneath Ergon lies Master Artificer
 
 A popular watering hole among locals and travelers alike, The Gilded Dune Tavern offers a place to unwind after a long day in the desert heat. Patrons can enjoy local brews made from desert fruits while sharing stories of their adventures or listening to local musicians perform traditional songs.
 
-> [!seed] A powerful sandstorm has unearthed an ancient entrance within [[Zarinesh's Hand]], rumored to lead to a long-lost underground city. Adventurers are sought to explore the depths and uncover the hidden secrets that lie within.
+> [[Zarinesh's Hand.md|!seed]], rumored to lead to a long-lost underground city. Adventurers are sought to explore the depths and uncover the hidden secrets that lie within.
 
 ## Notable Figures
 
@@ -86,7 +89,6 @@ In addition to its unique crafted goods, Ergon also exports resources such as sa
 
 The city was founded by resourceful settlers who discovered [[Zarinesh's Hand]] in their search for water. Over time, the settlement grew into a thriving metropolis as more people sought refuge from the harsh desert environment.
 
-
 # Culture and Religion:
 
 Ergon's diverse population has given rise to a vibrant culture that reflects the various traditions of its inhabitants. Music, dance, and storytelling are integral parts of Ergonian cultural expression, often performed in public spaces like the Helix Plaza or at The Gilded Dune Tavern.
@@ -97,26 +99,16 @@ Religiously, the city is predominantly devoted to [[Zarinesh]], the deity believ
 
 In addition to [[Zarinesh]] worship, Ergon also embraces animistic beliefs centered around nature spirits that inhabit the desert landscape. These spirits are believed to be responsible for various natural phenomena such as sandstorms or mirages. Some citizens offer prayers or sacrifices to these spirits in hopes of appeasing them or seeking assistance.
 
-> [!seed] A festival celebrating [[Zarinesh]] is fast approaching, and Ergon's citizens are busy preparing for the festivities. However, mysterious events begin occurring throughout the city that appear to be linked with angered nature spirits. Adventurers are sought to uncover the cause behind these disturbances before it threatens the festival's success.
+> [!seed] [[Zarinesh]] is fast approaching, and Ergon's citizens are busy preparing for the festivities. However, mysterious events begin occurring throughout the city that appear to be linked with angered nature spirits. Adventurers are sought to uncover the cause behind these disturbances before it threatens the festival's success.
 
-> [!read] As you wander through Ergon's streets at dusk, you witness a group of locals gathered around an impromptu stage near The Gilded Dune Tavern. They're captivated by a storyteller who spins tales about ancient heroes battling mythical creatures from deep within [[Zarinesh's Hand]]. The air is filled with the sound of laughter and applause, reflecting the city's indomitable spirit in the face of adversity.
+> !read [[Zarinesh's Hand]]. The air is filled with the sound of laughter and applause, reflecting the city's indomitable spirit in the face of adversity.
 
 # Geography and Climate:
 
 Located within the harsh [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]], Ergon faces an unforgiving desert climate with scorching temperatures during the day and freezing nights. The city's unique location within [[Zarinesh's Hand]] offers some protection against these harsh conditions, while its oasis provides life-sustaining water for its inhabitants.
 
-> [!read] As you enter Helix Plaza, you're immediately struck by the vibrant atmosphere of this bustling market. Exotic spices fill the air with their intoxicating aroma, while street performers entertain passersby with feats of acrobatics and sleight-of-hand. Merchants display their unique wares, crafted from scavenged parts of [[Zarinesh's Hand]], drawing curious onlookers and potential buyers alike.
+> [!read] [[Zarinesh's Hand]], drawing curious onlookers and potential buyers alike.
 
-> [!seed] Ergon's Master Artificer Tornas has recently discovered a hidden chamber within [[Zarinesh's Hand]], rumored to contain an ancient artifact of immense power. However, the chamber is guarded by deadly traps and creatures. Adventurers are sought to retrieve the artifact and uncover its secrets.
-
-
+> [!seed] [[Zarinesh's Hand]], rumored to contain an ancient artifact of immense power. However, the chamber is guarded by deadly traps and creatures. Adventurers are sought to retrieve the artifact and uncover its secrets.
 
 expand on Culture and Religion:
-
-
-
-
-
-
-
-

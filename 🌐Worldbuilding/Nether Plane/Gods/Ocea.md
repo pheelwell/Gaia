@@ -1,13 +1,16 @@
 ---
 type: Deity
 sum:
-- Title: Sister of Oceans
-- Domain: Water 
-- Associated Element: Energy 
-- Virtue: Temperament
+- "Title: Sister of Oceans"
+- "Domain: Water" 
+- "Associated Element: Energy" 
+- "Virtue: Temperament"
 dg-publish: true
+title: Ocea
+date created: Friday, October 6th 2023, 6:38:58 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
-### Ocea
+
 - Title: Sister of Oceans 
 - Domain: Water 
 - Associated Element: Energy
@@ -16,6 +19,7 @@ dg-publish: true
 > [!quote] "The Sea is restless! By the Gods, Geran calm your sister!"- A sailor praying to Geran
 
 ## Overview
+
 Ocea, known as the Sister of Oceans, the sister of [[Geran]], is a deity who embodies the serene waters. With a domain in water and an associated element of energy, Ocea stands as a 
 
 > [!TIP] Quick Reference
@@ -36,15 +40,12 @@ Ocea, known as the Sister of Oceans, the sister of [[Geran]], is a deity who emb
 # Religion
 ## Ideals
 
-
 ## Worshipers
-
 
 ## Temples
 
 # Lore
 ## History
-
 
 ## The Sea's Embrace
 
@@ -52,10 +53,11 @@ Ocea, known as the Sister of Oceans, the sister of [[Geran]], is a deity who emb
 ## Goals and Motivations
 
 ## Appearance and Visions
+
 When Geran appears to mortals in visions or dreams, she ofte takes the form of a ghostly figure sorrounded by stormy waters, giant waves or cyclones. Her presence creates a discomfort and chaotic surrounding. She appears like the wild nature, unpredictable.
 
-
 ## Personality Traits
+
 Ocea is moody and has temperament.
 
 ## Roleplaying Guide

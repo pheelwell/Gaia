@@ -4,8 +4,11 @@ sum:
   - Domain Moon
   - Associated Element Stars
 dg-publish: true
+title: Luniam
+date created: Friday, October 6th 2023, 6:38:58 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
-### Luniam
+
 - Domain: Moon
 - Associated Element: Stars
 - Virtue: ???
@@ -13,6 +16,7 @@ dg-publish: true
 > [!quote] "Under the shimmering glow of Luniam's light, secrets are revealed and mysteries unfold."
 
 ## Overview
+
 Luniam, the enigmatic deity of the Moon, casts a watchful eye over the world as night falls. Associated with the element of Stars, this celestial god weaves a tapestry of secrets and mysteries that only the most devoted followers can hope to unravel.
 
 > [!TIP] Quick Reference
@@ -33,32 +37,25 @@ Luniam, the enigmatic deity of the Moon, casts a watchful eye over the world as 
 # Religion
 ## Ideals
 
-
 ## Worshipers
 
-
 ## Temples
-
 
 # Lore
 ## History
 
-
 ## Celestial Bodies and Their Influence
+
 Followers of Luniam believe that celestial bodies such as stars and planets play a significant role in shaping their world. They study these entities closely, seeking to understand how their movements impact not only the physical realm but also the spiritual and magical aspects of existence.
 
 # Roleplaying
 ## Goals and Motivations
 
-
 ## Appearance and Visions
-
 
 ## Personality Traits
 
-
 ## Roleplaying Guide
-
 
 # Trivia
 - It is believed that during a lunar eclipse, Luniam's power is at its peak, granting visions or blessings to devout followers.

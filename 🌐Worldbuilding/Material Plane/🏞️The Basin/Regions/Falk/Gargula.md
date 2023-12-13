@@ -1,40 +1,57 @@
 ---
 dg-publish: true
 type: NPC
+title: Gargula
+date created: Friday, October 6th 2023, 6:39:54 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
+
 Gargula is a mysterious, black-clothed old lady who sees omens and sells magical trinkets in the small town of [[Falk]].
 
 # Appearance
+
 **Human**
+
 _"The shadows seem to cling to my very essence, as if she's made of darkness itself."_
+
 Gargula is an enigmatic old woman with a hunched posture and unkempt gray hair. She is always seen wearing dark, tattered clothing that seems to blend in with the shadows. Her piercing eyes have an otherworldly feel to them, as if she sees more than mere mortals. When roleplaying Gargula, speak in a raspy voice and use cryptic language that hints at hidden knowledge.
 
 ### Motivations
+
 Gargula's primary motivation is her pursuit of understanding the unknown and mysterious forces at work in the world. She seeks out magical artifacts and studies ancient texts to uncover secrets that others might overlook.
 
 ### Ideals
+
 She firmly believes that there are hidden truths waiting to be discovered beneath the surface of everyday life. To Gargula, knowledge is power, and she strives to learn all she can about the arcane arts.
 
 ### Bonds
+
 Gargula has formed a close bond with Dr. Phalando, the mayor of [[Falk]]. Their unconventional relationship is both heartwarming and peculiar, and they are often seen together engaging in deep conversations or simply enjoying each other's company.
 
 ### Flaws
+
 Gargula's obsession with omens and secret knowledge can sometimes lead her down dangerous paths. She may inadvertently cause harm or put others in danger by pursuing forbidden knowledge or meddling with powerful artifacts.
 
 ### Quirk
+
 Her cryptic speech patterns often leave those around her confused or unnerved, making it difficult for her to form close relationships outside of Dr. Phalando.
 
 ### Roleplaying
+
 When roleplaying Gargula, emphasize her cryptic speech patterns and mysterious demeanor. She should always have an air of mystery about her, leaving players wondering just what secrets she might be hiding behind those piercing eyes.
 
 # Backstory
+
 Little is known about Gargula's past, and she prefers to keep it that way. Some believe she may have once been a powerful sorcerer or a scholar of the arcane arts who fell from grace, while others think she might be the last surviving member of an ancient order dedicated to preserving hidden knowledge.
 
-# Role in the campaign
+# Role in the Campaign
+
 Gargula can provide players with valuable information about magic and the supernatural through her trinket shop and knowledge of omens. She may also serve as a plot hook by discovering a mysterious artifact in the forest near [[Falk]] that seems to be connected to her trinkets and omens. The party must investigate its origins and determine whether it poses a threat to the town or could be used for good.
 
 # Relations
+
 Gargula is well known among the residents of [[Falk]] due to her peculiar appearance and enigmatic nature. However, despite her eccentricities, she is generally well-liked by the townsfolk.### Gargula's Trinket Shop
+
 Gargula's trinket shop is a small, dimly lit store located near the edge of [[Falk]]. The shop is filled with shelves of mysterious artifacts, scrolls, and magical trinkets that Gargula has collected over the years. The air inside the shop is thick with incense, and the walls are adorned with strange symbols and tapestries.
 
 > [!info] Info

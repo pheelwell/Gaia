@@ -2,11 +2,15 @@
 dg-publish: true
 title: Cult of the Gifted Ones (Class)
 type: Meta
+date created: Friday, October 6th 2023, 7:41:44 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
 
-You can choose [[The Gifted]] Ones subclass for the Priest class.[[The Gifted#Naruun|Naruun]] is an ancient forgotten old god. People seek him in the deepest moments of despair, to beg for his gifts. And for some whos desires are strong enougth, he also returns those bids.
-Some believe that [[The Gifted#Naruun|Naruun]] is a malevolent god, while others believe that he is simply misunderstood. In either case, he offers his gifts to his followers, the Gifted ones.
-The Gifted ones are people who have been blessed by [[The Gifted#Naruun|Naruun]]. Those Gifts could bring many forms, but almost always originate in the deep desires of the Gifted. If you open your mind to [[The Gifted#Naruun|Naruun]] he will soothe your despair, and will help you bring it on the people opposing you.
+You can choose [[The Gifted]] Ones subclass for the Priest class.[[The Gifted.md#Naruun|Naruun]] is an ancient forgotten old god. People seek him in the deepest moments of despair, to beg for his gifts. And for some whos desires are strong enougth, he also returns those bids.
+
+Some believe that [[The Gifted.md#Naruun|Naruun]] is a malevolent god, while others believe that he is simply misunderstood. In either case, he offers his gifts to his followers, the Gifted ones.
+
+The Gifted ones are people who have been blessed by [[The Gifted.md#Naruun|Naruun]]. Those Gifts could bring many forms, but almost always originate in the deep desires of the Gifted. If you open your mind to [[The Gifted.md#Naruun|Naruun]] he will soothe your despair, and will help you bring it on the people opposing you.
 
 #### Psycic Transmutation
 
@@ -38,14 +42,17 @@ Starting at 17th level, you can channel the power of [[Naruun]] into yourself. A
 - You have advantage on all attack rolls and saving throws.
 
 <img
+
    src='https://cdn.discordapp.com/attachments/1005540075326681188/1021533168962117672/Corellwell_cultist_recieving_gift_of_god_purple_and_golden_ligh_703632a6-e0b0-4991-8dd0-d92ebd002349.png'
+
   '
+
 />
-
-
 
 <img
-   src='https://cdn.discordapp.com/attachments/1005540075326681188/1021536632828084338/DALLE_2022-09-19_23.39.13_-_priest_purple_and_golden_cloths_dnd_concept_art.png'
-  '
-/>
 
+   src='https://cdn.discordapp.com/attachments/1005540075326681188/1021536632828084338/DALLE_2022-09-19_23.39.13_-_priest_purple_and_golden_cloths_dnd_concept_art.png'
+
+  '
+
+/>

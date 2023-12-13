@@ -5,14 +5,19 @@ sum:
 - Associated Element Manipulation
 - Virtue Research
 dg-publish: true
+title: Zarinesh
+date created: Wednesday, October 18th 2023, 10:19:51 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
-### Zarinesh
+
 - Domain: Synthetics
 - Associated Element: Manipulation
 - Virtue: Research 
 
 # Notes:
+
 has lost a hand
+
 *clean organic synthetic alien appeareance*
 
 Zarinesh, the deity of synthetics and manipulation, is a highly enigmatic figure in the world of gods and goddesses. Known for their fascination with research and experimentation, Zarinesh has devoted their existence to the pursuit of knowledge and advancement. With a keen interest in blending nature and technology, they have become the patron deity of inventors, tinkerers, and those who seek to push the boundaries of what is possible.
@@ -26,6 +31,7 @@ Zarinesh is often depicted with an ethereal, otherworldly beauty that seems both
 The followers of Zarinesh are often found in places where innovation thrives. Artificers, engineers, alchemists - anyone who seeks to push the limits of what is possible through research and experimentation may find themselves drawn to this mysterious deity.
 
 Worshipers of Zarinesh value progress above all else; they believe that there are no limits to what can be achieved with enough dedication and curiosity. They often build elaborate shrines and temples dedicated to their deity, filled with intricate machinery and complex organic constructs that serve as both offerings and testaments to their faith.
+
 They alter their Bodys to Enhance themselves.  
 
 ## Symbol
@@ -45,7 +51,3 @@ The central chamber of the temple is often home to a grand altar dedicated to Za
 In addition to serving as places of worship, the temples of Zarinesh also function as centers for learning and advancement. They house extensive libraries filled with scrolls, books, and digital archives containing vast amounts of knowledge across various disciplines. Workshops outfitted with state-of-the-art equipment provide spaces for hands-on experimentation and collaboration among followers.
 
 As Zarinesh embodies the combination of organic and synthetic elements, the image should depict their ethereal beauty and fluid form. 
-
-Prompt: concept fantasy art of a clean organic-synthetic alien deity with a missing left hand, surrounded by intricate machinery and bioluminescent plants, in a temple filled with advanced technology and living vines in the style of dungeons and dragons concept art.
-
-

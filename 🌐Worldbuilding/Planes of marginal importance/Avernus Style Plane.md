@@ -1,1 +1,0 @@
-We need a plane in the Style of Avernus, where the Tieflings can come from.

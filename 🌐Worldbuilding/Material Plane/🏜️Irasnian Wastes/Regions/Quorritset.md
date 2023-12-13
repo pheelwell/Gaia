@@ -1,5 +1,14 @@
+---
+title: Quorritset
+date created: Wednesday, October 18th 2023, 10:19:51 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
+banner: "![[Quorritset.png]]"
+---
+
 Nestled in the heart of the vast and unforgiving [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]] lies the city of Quorritset, an oasis of life and activity amidst the endless dunes. The city is primarily inhabited by two races: the small, reptilian [[Quorri]], for which the city is named, and the [[Solith]], a hardy people who have adapted to life in the desert.
-![[Quorritset.png]]
+
+
+
 ## Geography
 
 Quorritset is built around a series of natural springs that provide a constant supply of water to its inhabitants. This precious resource has allowed for the growth of lush vegetation within the city's walls, creating a stark contrast to the barren landscape that surrounds it.

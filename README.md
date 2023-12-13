@@ -1,3 +1,8 @@
+---
+title: README
+date created: Friday, October 6th 2023, 6:38:52 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
+---
 # [[Skoria]] World Lore
 
 Welcome to the [[Skoria]] World Lore repository!
@@ -19,12 +24,12 @@ To integrate this repository into your own Obsidian vault, you'll need to use a 
 7. Choose a local path where you want the files to be stored on your computer. This should be inside your vault.
 8. Click on `Clone`. The repository will now be cloned into your chosen folder.
 
-
 ## Updating Your Vault
 
 Whenever there are new updates or changes made to the [[Skoria]] World Lore by other collaborators, you'll need to update your own Obsidian vault to stay in sync with the latest information.
 
 To do this, follow these steps:
+
 1. Open GitHub Desktop.
 2. In the list of repositories, select `skoria`.
 3. Click on Fetch `origin` or `Pull` at the top right corner of GitHub Desktop.
@@ -67,4 +72,3 @@ Now that you've committed your changes locally, it's time to submit a pull reque
 Your pull request will now be submitted for review by other collaborators who can either approve or request further changes before merging it with the main branch.
 
 Please be patient while waiting for feedback and be prepared to make additional adjustments if requested. Once your pull request is approved and merged, your changes will become part of the [[Skoria]] World Lore repository, and everyone else can sync their Obsidian vaults to see your contributions!
-

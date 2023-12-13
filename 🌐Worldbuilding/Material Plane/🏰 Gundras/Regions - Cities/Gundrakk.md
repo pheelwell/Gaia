@@ -1,1 +1,0 @@
-Die Hauptstadt von Gundras.

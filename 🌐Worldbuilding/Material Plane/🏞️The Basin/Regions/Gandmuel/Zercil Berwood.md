@@ -5,6 +5,8 @@ alias:
 dg-publish: true
 title: Zercil Berwood
 type: SideNPC
+date created: Friday, October 6th 2023, 7:41:44 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
 
 **Elf - Tourist Guide**
@@ -19,4 +21,3 @@ Zercil is a very outgoing man who loves to talk to people. He's also very passio
 | Bond  | The Reformers. I believe in what they're doing and want to help them in any way I can.         |
 | Flaw  | Greed. I want to make as much money as possible and will do whatever it takes to achieve that. |
 | Quirk | Wears a necklace with a tree pendant.                                                          |
-

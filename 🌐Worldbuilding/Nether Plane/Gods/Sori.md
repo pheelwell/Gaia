@@ -1,12 +1,15 @@
 ---
 type: Deity
 sum:
-  - Domain: Sun
-  - Associated Element: Nature
-  - Virtue: Morality
+  - "Domain: Sun"
+  - "Associated Element: Nature"
+  - "Virtue: Morality"
 dg-publish: true
+title: Sori
+date created: Wednesday, October 18th 2023, 10:23:59 pm
+date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
-### Sori
+
 - Domain: Sun
 - Associated Element: Nature
 - Virtue: Morality 
@@ -14,6 +17,7 @@ dg-publish: true
 > [!quote] "As the sun rises, so does Sori's light illuminate the path for all who seek tranquility."
 
 ## Overview
+
 Sori, the deity of the sun and nature, embodies the virtue of morality. This benevolent being is a beacon of hope for those who walk in their radiant light, guiding them towards a righteous path. Followers of Sori strive to uphold their deity's ideals and live a life filled with goodness and compassion.
 
 > [!TIP] Quick Reference
@@ -36,19 +40,17 @@ Sori, the deity of the sun and nature, embodies the virtue of morality. This ben
 # Religion
 ## Ideals
 
-
 ## Worshippers
 
-
 ## Temples
-There is only one true temple for Sori. That is her tree. Its floating above the green plains and is reserved only for Sori´s true followers. The tree of Sori is protected by half gods empowered by Sori herself.
 
+There is only one true temple for Sori. That is her tree. Its floating above the green plains and is reserved only for Sori´s true followers. The tree of Sori is protected by half gods empowered by Sori herself.
 
 # Lore
 ## History
 
-
 ## The Glowing
+
 A unique event known as the Glowing occurs in once every 4000 years. During this time, the tree of Sori shines with a golden hue that imbues healing properties upon the land and its inhabitants. It can heal the ground below and restore it to a green plain. 
 
 > [!quote] "Sori brings the sun? Sori is the Sun!"
@@ -56,22 +58,19 @@ A unique event known as the Glowing occurs in once every 4000 years. During this
 # Roleplaying
 ## Goals and Motivations
 
-
 ## Appearance and Visions
 
 ## Personality Traits
+
 Sori is a compassionate deity who values empathy and kindness above all else. 
+
 - **Ideals**: Compassion, Empathy, Harmony.
 - **Bonds**: Connection to nature; desire to promote goodness.
 - **Flaws**: Can be overly protective of nature; may struggle when faced with morally ambiguous situations.
 
 ## Roleplaying Guide
 
-
 # Trivia
 - During the Glowing event, it is said that those who bask in the golden light of Sori can heal physical wounds and cleanse emotional burdens.
 - Many farmers pray to Sori for bountiful harvests and protection against natural disasters.
 - Some worshipers wear sunflower-inspired jewelry or clothing as a symbol of their devotion to Sori.
-
-
-
