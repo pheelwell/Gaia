@@ -6,7 +6,7 @@ date modified: Friday, December 8th 2023, 11:02:54 pm
 
 Umgangssprachlich auch nur Arcane Union oder Union genannt. 
 
-Ein Zusammenschluß der verschiedenen Akademien und Universitäten in ganz Skoria. 
+Ein Zusammenschluß der verschiedenen Akademien und Universitäten in ganz [[Skoria]]. 
 
 Das Bündnis stärkt die Zusammenarbeit verschiedener Bildungsarbeiten über den ganzen Kontinent. 
 

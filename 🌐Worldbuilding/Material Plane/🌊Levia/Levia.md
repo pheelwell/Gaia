@@ -1,4 +1,7 @@
 ---
+banner: "![[Levia-Atmosphere.png]]"
+---
+---
 title: Levia
 date created: Wednesday, October 18th 2023, 10:23:59 pm
 date modified: Monday, December 11th 2023, 5:54:52 pm
@@ -38,7 +41,7 @@ They pray especially for [[Geran]], [[Ocea]], [[Zarinesh]] and [[Sori]]
 
 ## Politics and Economy:
 
-The Leaders of Levia controll the water Traffic in Skoria and control the biggest hanseatic harbour in Skoria. They play a big Role on the global market in Skoria. Also the giant Watergates a supposed to protect [[Levia]] and also 
+The Leaders of Levia controll the water Traffic in [[Skoria]] and control the biggest hanseatic harbour in [[Skoria]]. They play a big Role on the global market in [[Skoria]]. Also the giant Watergates a supposed to protect [[Levia]] and also 
 
 ## History and Origin:
 

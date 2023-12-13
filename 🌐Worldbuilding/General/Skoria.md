@@ -3,21 +3,18 @@ title: Skoria
 date created: Wednesday, October 18th 2023, 10:19:51 pm
 date modified: Monday, December 11th 2023, 5:54:52 pm
 ---
-
-![[Skoria Map.png]]
-
-# Welcome to Skoria
-
+## Welcome to Skoria
+![[Skoria, the world beneath the nether2.0.jpg]]
 Welcome, traveler, to the mystical world of Skoria. This land is full of secrets, history, and wonder. Within this guide, you'll uncover knowledge about the captivating cities and cultures within Skoria. Prepare yourself for a journey through a land shaped by divine forces and cataclysmic events.
 
-## The Aftermath of The Shattering
+## The Aftermath of [[The Shattering]]
 
-The Shattering was a cataclysmic event that resulted from a dispute between two groups of gods. The conflict caused devastation on a massive scale, wiping out 85% of Skoria's population and resetting the entire civilization. Many species were forever lost as a result of this apocalyptic event.
+[[The Shattering]] was a cataclysmic event that resulted from a dispute between two groups of [[gods]]. The conflict caused devastation on a massive scale, wiping out 85% of Skoria's population and resetting the entire civilization. Many species were forever lost as a result of this apocalyptic event.
 
-In the wake of The Shattering, the god Arathor built a barrier between Skoria and the Nether Plane with the help of Lar. They used the remains of Umbrial to create this barrier, preventing any further direct interference from divine beings in Skoria.
+In the wake of [[The Shattering]], the god [[Arathor]] built a barrier between Skoria and the [[Nether Plane]] with the help of [[Lar]]. They used the remains of Umbrial to create this barrier, preventing any further direct interference from divine beings in Skoria.
 
 > [!info] Info
-> The barrier between Skoria and the Nether Plane is not perfect. Divine forces have found other means to access Skoria, leading to an increase in mysterious events and encounters with supernatural beings.
+> The barrier between Skoria and the [[Nether Plane]] is not perfect. Divine forces have found other means to access Skoria, leading to an increase in mysterious events and encounters with supernatural beings.
 
 As threats from both within and beyond Skoria began to grow more frequent, different races and kingdoms started forming alliances for mutual protection and cooperation.
 
@@ -35,7 +32,7 @@ Deep within the mountains of Skoria, the dwarves have carved out expansive kingd
 
 ### The Human Cities
 
-Human settlements can be found scattered throughout Skoria, ranging from small villages to grand cities. Each city has its own unique culture and history, shaped by the events that transpired after The Shattering. Some cities focus on trade and commerce, while others are bastions of learning and knowledge.
+Human settlements can be found scattered throughout Skoria, ranging from small villages to grand cities. Each city has its own unique culture and history, shaped by the events that transpired after [[The Shattering]]. Some cities focus on trade and commerce, while others are bastions of learning and knowledge.
 
 ### The Magical Academies
 
@@ -44,14 +41,14 @@ Some of the most powerful arcane knowledge in Skoria can be found within its mag
 > [!seed] Adventure Hook
 > A mysterious artifact has been discovered deep within an ancient forest, setting off a race between different factions vying for control over its immense power.
 
-# Divine History and Its Influence on Skoria
+# [[Divine History]] and Its Influence on Skoria
 
-With divine forces finding ways to infiltrate Skoria once again, the world began experiencing an increase in otherworldly encounters. As gods sought to influence mortals through various means, societies adapted and evolved in response to these divine interventions.
+With divine forces finding ways to infiltrate Skoria once again, the world began experiencing an increase in otherworldly encounters. As [[gods]] sought to influence mortals through various means, societies adapted and evolved in response to these divine interventions.
 
 The presence of divine forces has also led to the rise of religious orders and cults dedicated to serving specific deities or pantheons. This further complicates the relationships between different races and kingdoms, as religious beliefs often clash with political agendas.
 
 > [!warning] Caution
-> Divine influences can sometimes lead characters down dangerous paths or into conflicts with powerful beings beyond their comprehension. Tread carefully when dealing with matters involving gods or other supernatural entities.
+> Divine influences can sometimes lead characters down dangerous paths or into conflicts with powerful beings beyond their comprehension. Tread carefully when dealing with matters involving [[gods]] or other supernatural entities.
 
 # Conclusion
 

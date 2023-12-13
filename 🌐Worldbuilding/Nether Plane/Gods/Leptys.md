@@ -33,21 +33,21 @@ date modified: Monday, December 11th 2023, 5:54:52 pm
 
 ## Worshipers
 
-Priests and Paladins arround Skoria worship to Leptys. For them he brings Life and Fertility to the people. They pray for a Long Life, for Health or assistance.
+Priests and Paladins arround [[Skoria]] worship to Leptys. For them he brings Life and Fertility to the people. They pray for a Long Life, for Health or assistance.
 
 His direct subordinates are called the Ascendents Of Life. He gives them orders to fullfill his will.
 
 ## Temples
 
-There are many Temples for Leptys arround Skoria. He is one of the most worshipped Gods, for his origin and abilities.
+There are many Temples for Leptys arround [[Skoria]]. He is one of the most worshipped Gods, for his origin and abilities.
 
 # Lore
 
 ## The Cycle of Life and Death
 
-Leptys can give Life, create Life, let Skoria bloom in all his beauty. His other Part is [[Varuún]] the God of Death. He takes the Souls of the Dead and lead them to their afterlife.
+Leptys can give Life, create Life, let [[Skoria]] bloom in all his beauty. His other Part is [[Varuún]] the God of Death. He takes the Souls of the Dead and lead them to their afterlife.
 
-They both need each other to fullfill a working life - death balance in Skoria. 
+They both need each other to fullfill a working life - death balance in [[Skoria]]. 
 
 # Roleplaying
 ## Goals and Motivations

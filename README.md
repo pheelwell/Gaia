@@ -46,7 +46,7 @@ Just write Articles according to the [[Note Structure Guidelines]].
 The `Main` branch is protected, so you won't be able to add to it. To add your own changes to the [[Skoria]] World Lore repository, you'll need to create a new branch and submit a pull request. Here's how to do it:
 
 1. Open GitHub Desktop.
-2. In the list of repositories, select `[[[[skoria]]]]`.
+2. In the list of repositories, select `skoria`.
 3. At the top of GitHub Desktop, click on the `Current Branch` dropdown menu.
 4. Click on `New Branch` and give it a descriptive name (e.g., "new-location-lore").
 5. Make sure the new branch is based on the `main` branch.
