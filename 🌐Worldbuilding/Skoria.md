@@ -1,6 +1,4 @@
-![[Skoria Map.png]]
-
-# Welcome to Skoria
+![[Skoria, the world beneath the nether2.0.jpg]]# Welcome to Skoria
 
 Welcome, traveler, to the mystical world of Skoria. This land is full of secrets, history, and wonder. Within this guide, you'll uncover knowledge about the captivating cities and cultures within Skoria. Prepare yourself for a journey through a land shaped by divine forces and cataclysmic events.
 

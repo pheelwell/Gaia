@@ -30,3 +30,4 @@ Das Ende aller Zeiten kommt, diese Welt wird zerstört
 - The next day they went to Skripi (the principal) and got a mission.
 - They need to create a Mythal and carry it to Rockwell, to master [[Anitor the Arcane]] and then to [[Lichtor]]
 - They need to go as 3. They decided to take [[Tuna]] with them.
+

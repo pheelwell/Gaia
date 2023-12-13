@@ -1,5 +1,6 @@
 ![[Fogweavers Crest.png|300]]
-# Fogweaver Traits and Facets
+unfertig 
+Fogweaver Traits and Facets
 
 - Sunkeepers are known to have a strong connection with nature, especially the sun and the sunlight.
 - It is believed that the most powerful Sunkeepers can harness solar energy to create a very secret technique of [[Sun Magic - Lunar Magic]].
