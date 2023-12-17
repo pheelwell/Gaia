@@ -1,7 +1,7 @@
 ---
 title: Moosgeister
 date created: Wednesday, October 18th 2023, 10:23:59 pm
-date modified: Monday, December 11th 2023, 3:56:49 pm
+date modified: Thursday, December 14th 2023, 12:21:53 am
 ---
 
 Moosgeister sind keine Geister im klassischen Sinne. Es sind Wesen deren Haut zum groß Teil mit Moos bedeckt ist. Sie können sich blind in Mooren und Wäldern fortbeewegen und auch besonders gut tarnen. 

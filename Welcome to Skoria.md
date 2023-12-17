@@ -3,30 +3,34 @@ dg-publish: true
 dg-skoria-home: true
 permalink: /
 type: Meta
-title: Skoria Landing Page
+title: Welcome to Skoria
 date created: Wednesday, October 18th 2023, 10:23:59 pm
-date modified: Wednesday, December 13th 2023, 5:04:22 pm
+date modified: Friday, December 15th 2023, 1:33:41 pm
+banner: "![[Great Vault.png]]"
 ---
 
-Welcome to the Digital Garden of [[Skoria]] Lore
+![[Skoria Emblem.png]]
 
-Delve into the mystical world of [[Skoria]], a land filled with secrets, history, and wonder. Within this digital garden, you'll uncover knowledge about:
+Greetings, intrepid scholar,
 
-- The mysterious [[Nether Plane]]
-- The rich [[Divine History]] of gods and deities
-- The captivating cities and cultures within [[Skoria]]
-- The city of [[Ergon]] in the [[Irasnian Wastes]] 
-- The mysterious water prison in [[Levia]]
+You have crossed the threshold into the hallowed halls of the Great Vault Library, the grand repository of all knowledge pertaining to the enigmatic realm of [[Skoria]]. Here, amidst the silence punctuated by the soft rustle of ancient pages, I—your devoted arcane librarian—shall serve as your guide through the chronicles and arcana that have been meticulously preserved within these walls.
 
-Explore unique subclasses such as:
+Prepare your mind to knowledge about many subjects in Skoria as:
 
-- The enigmatic [[Shadow Hunter]]
-- The powerful [[Class)](Cult of the Gifted Ones (Class|Cult of the Gifted Ones (Class)]].md)
+- The divine depths of the [[Nether Plane]], where reality weaves into unfathomable patterns and abstruse energies.
+- The storied annals of **[[Divine History]]**, chronicling an ageless saga of deities and divine machinations that shaped our very cosmos.
+- The tapestry of cultures that make up our resplendent land—each city a jewel in [[Skoria]]'s crown—with particular attention to the resilient bastion known as **[[Ergon]]**, nestled within the desolate beauty of the **[[Irasnian Wastes]]**.
+- The haunting tales surrounding **[[Levia]]'s** submerged prison, where secrets are kept under lock and tide, waiting for a daring soul to uncover them.
+- 
 
-Before you begin your journey, please familiarize yourself with the [[Note Structure Guidelines]] and our helpful [[🌐Skoria/README]].
+Moreover, you shall have access to rare manuscripts outlining esoteric subclasses known only to a select few:
 
-Let the adventure begin!
+- Unearth forbidden texts regarding a most potent faction—the [[Cult of the Gifted Ones (Class)]] whose members wield powers that blur the boundary between miracle and menace.
 
-![Changelog]
+Before you immerse yourself in these ancient scripts and scrolls, I implore you to acquaint yourself with our **[[Note Structure Guidelines]]**, for they are essential in navigating through our labyrinthine compilation. 
 
-For any updates or changes made to this digital garden, please refer to our ![[Changelog]]
+With quill poised and candle flickering against encroaching shadows, let us embark on this scholarly odyssey into [[Skoria]]'s heart. Welcome once more to our Great Vault—may your thirst for knowledge be unending!
+
+Yours in wisdom,
+
+The Arcane Librarian

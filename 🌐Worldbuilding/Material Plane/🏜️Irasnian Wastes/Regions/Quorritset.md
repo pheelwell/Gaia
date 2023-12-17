@@ -1,13 +1,11 @@
 ---
 title: Quorritset
 date created: Wednesday, October 18th 2023, 10:19:51 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 1:41:27 pm
 banner: "![[Quorritset.png]]"
 ---
 
-Nestled in the heart of the vast and unforgiving [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]] lies the city of Quorritset, an oasis of life and activity amidst the endless dunes. The city is primarily inhabited by two races: the small, reptilian [[Quorri]], for which the city is named, and the [[Solith]], a hardy people who have adapted to life in the desert.
-
-
+Nestled in the heart of the vast and unforgiving [[Irasnian Wastes]] lies the city of Quorritset, an oasis of life and activity amidst the endless dunes. The city is primarily inhabited by two races: the small, reptilian [[Quorri]], for which the city is named, and the [[Solith]], a hardy people who have adapted to life in the desert.
 
 ## Geography
 
@@ -17,14 +15,14 @@ The city itself is divided into several districts, each with its own distinct ch
 
 - The Oasis District: Located in the heart of Quorritset, this district is home to the largest concentration of springs and greenery. It serves as a central gathering place for residents and visitors alike.
 
-- The Market District: As a vital hub for trade between various settlements across the [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]], this bustling district offers a wide array of goods from both local craftsmen and foreign merchants.
+- The Market District: As a vital hub for trade between various settlements across the [[Irasnian Wastes]], this bustling district offers a wide array of goods from both local craftsmen and foreign merchants.
 
 - The Residential District: This area houses most of Quorritset's permanent residents within its winding streets and tight-knit neighborhoods.
 
 - The Outer Walls: Forming a protective barrier against both sandstorms and potential invaders, these towering fortifications are manned by skilled guards who keep watch over all who approach Quorritset's gates.
 
 > [!info] Info
-> While traveling through [[Quorritset]] or the [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]], characters may come across trading caravans making their way to or from [[Quorritset]]. These can be valuable sources of information about local happenings or potential dangers ahead.
+> While traveling through [[Quorritset]] or the [[Irasnian Wastes]], characters may come across trading caravans making their way to or from [[Quorritset]]. These can be valuable sources of information about local happenings or potential dangers ahead.
 
 ## Culture
 
@@ -37,7 +35,7 @@ A key aspect of life in Quorritset is the importance placed on water conservatio
 
 ## Points of Interest
 
-- The Grand Bazaar: A sprawling marketplace that offers a dizzying array of goods from all corners of the [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]]. Adventurers can find almost anything they need here, from exotic spices to powerful magical artifacts.
+- The Grand Bazaar: A sprawling marketplace that offers a dizzying array of goods from all corners of the [[Irasnian Wastes]]. Adventurers can find almost anything they need here, from exotic spices to powerful magical artifacts.
 
 - The Temple of Sustenance: A sacred site dedicated to the worship of deities associated with life-sustaining resources like water and food. It is said that those who offer sincere prayers here may receive divine blessings or guidance.
 
@@ -48,7 +46,7 @@ A key aspect of life in Quorritset is the importance placed on water conservatio
 
 ## Threats
 
-While Quorri stands as a beacon of civilization amidst an inhospitable landscape, it is not without its dangers. The harsh environment of the [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]] has bred all manner of deadly creatures that may be drawn to the city by the scent of water and life.
+While Quorri stands as a beacon of civilization amidst an inhospitable landscape, it is not without its dangers. The harsh environment of the [[Irasnian Wastes]] has bred all manner of deadly creatures that may be drawn to the city by the scent of water and life.
 
 > [!warning] Warning
 > While exploring the area surrounding Quorri, be prepared for encounters with dangerous desert-dwelling creatures such as sandworms, scorpions, or even rival tribes seeking control over the city's resources.

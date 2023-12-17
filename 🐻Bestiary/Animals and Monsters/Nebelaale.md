@@ -1,7 +1,7 @@
 ---
 title: Nebelaale
 date created: Wednesday, October 18th 2023, 10:23:59 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 12:21:53 am
 ---
 
 Nebelaale sind überwiegend im Wasser zu finden. Es sind Tiere die eine starke Bindung zu den magic Nodes haben und selbst auch Mana aus den Nodes in sich aufnehmen können. Sie können sich sogar von dem Mana ernähren. 

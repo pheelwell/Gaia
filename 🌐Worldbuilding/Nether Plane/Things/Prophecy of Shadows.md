@@ -1,12 +1,12 @@
 ---
 title: Prophecy of Shadows
 date created: Friday, October 6th 2023, 6:38:50 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 1:41:26 pm
 ---
 
 The Prophecy of Shadows is a ancient Prophecy of another Cataclysmic event resembling [[The Shattering]]
 
-# The Prophecy
+## The Prophecy
 
 As the Beast lifts his paw,
 

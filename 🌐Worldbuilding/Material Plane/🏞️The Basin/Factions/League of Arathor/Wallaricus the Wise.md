@@ -3,7 +3,7 @@ dg-publish: true
 type: NPC
 title: Wallaricus the Wise
 date created: Friday, October 6th 2023, 6:39:54 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 12:21:54 am
 ---
 
 Have you heard the stories about Wallaricus the Wise?" a young student whispered to his friend as they sat in the temple halls. "They say he has the knowledge of a thousand scholars and can see through any deception. But there's also something unsettling about him, like he's constantly on guard against some unseen threat. I wonder what secrets he hides behind those wise, watchful eyes."

@@ -1,14 +1,14 @@
 ---
 title: Note Structure Guidelines
 date created: Friday, October 6th 2023, 6:38:52 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 1:41:27 pm
 ---
 
 ---
 type: Meta
 dg-publish: true
 ---
-# Folder Structure
+## Folder Structure
 
 Obsidian notes in this Repo are structured this way:
 
@@ -43,7 +43,7 @@ Obsidian notes in this Repo are structured this way:
 	 └── ...
 ```
 
-# Frontmatter
+## Frontmatter
 
 Frontmatter helps with the organization and categorization of notes. It should be included at the beginning of each note and follow this general structure:
 
@@ -77,7 +77,7 @@ Note content goes here.
   - `tree`: A fully developed and detailed note, that is deeply rooted into your campain, many secrets exist under the surface.
   - `willow`: a deprecated note that needs trimming or is outdated.
 
-# Formatting
+## Formatting
 
 It is a good idea to follow this guideline for writing notes:
 
@@ -91,6 +91,6 @@ It is a good idea to follow this guideline for writing notes:
 
 Example Formatting can be found at [[Example Site]]
 
-# Images and Media
+## Images and Media
 
 When including Images, include them INSIDE the Repo, otherwise they won't be synced. Please only use selfmade Images that you hold copyright to.

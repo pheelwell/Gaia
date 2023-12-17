@@ -9,9 +9,9 @@ sum:
   - Famous for its bakery producing delicious bread, attracting tourists.
   - Located next to a river, surrounded by forest and fields.
 status: tree
-title: Gandmuehl
+title: Gandmuel
 date created: Friday, October 6th 2023, 7:41:44 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Friday, December 15th 2023, 1:08:23 pm
 ---
 
 The sun sets over the small town of Gandmühl, casting a warm glow on the elven faces that bustle through the streets. The scent of freshly baked bread fills the air, drawing travelers from far and wide to taste its legendary flavor. But beneath this idyllic surface, tensions simmer between those who wish to preserve the town's heritage and those who seek progress through tourism.
@@ -22,33 +22,33 @@ Gandmühl is a quaint town of approximately 2000 residents, predominantly elves.
 
 Nestled beside a river and surrounded by forest and fields, Gandmühl's landscape offers an idyllic backdrop for both work and leisure. The Chuckers reside on the eastern side of town near their lumber mills, while The Reformers inhabit the western side close to the harbor that brings in tourists.
 
-# Notable Locations:
+## Notable Locations:
 - **Lumber Mills**: Located on the east side of Gandmühl; source of income for The Chuckers.
 - **Harbor**: Found on the west side; used by both factions for transportation and tourism.
 
-# Notable Figures:
+## Notable Figures:
 - [[Tarwin Althammer]]: A former Paladin with connections to Gandmühl; his tragic story is known among commoners.
 - [[The Fulfiller]]: Mysterious figure responsible for giving bad advice in [[Gandmuehl Bread Plot]].
 
-# Politics and Economy:
+## Politics and Economy:
 
 Gandmühl is governed by a council evenly composed of Chuckers and Reformers. This balance leads to infighting and political turmoil as both factions compete for influence. The lumber mills on the east side fuel the Chuckers' economy, while the Reformers rely on tourism and the harbor.
 
-# History:
+## History:
 
 The town of Gandmühl was once a peaceful community focused on lumber trading. However, with the rise of its famous bakery, tensions have grown between those who wish to maintain tradition and those who desire progress through tourism.
 
-# Culture and Religion:
+## Culture and Religion:
 
 Gandmühl is predominantly composed of elves with deep roots in their lumber trading heritage. Their culture is now shifting as tourism gains prominence in the town's economy.
 
-# Threats and Rumors:
+## Threats and Rumors:
 - Lumberjacks overhear mages discussing "magic masking" wood being sold to [[Herbstbog]].
 
-# Campaign Connections:
+## Campaign Connections:
 - In the [[Murder of Reyala Althammer Plot]], players can learn about [[Tarwin Althammer]]'s tragic past involving his deceased wife and child in Gandmühl.
 - Players can travel from Gandmühl to [[Herbstbog]] by boat, taking approximately three days.
 
-# Geography and Climate:
+## Geography and Climate:
 
 Gandmühl is situated next to a river within a lush forest. The town is surrounded by fields, providing picturesque scenery for both residents and tourists.

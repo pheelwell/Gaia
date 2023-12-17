@@ -8,7 +8,7 @@ sum:
 dg-publish: true
 title: Geran
 date created: Friday, October 6th 2023, 6:38:58 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 1:41:26 pm
 ---
 
 - Title: Brother of Oceans 
@@ -37,32 +37,32 @@ Geran, known as the Brother of Oceans, the brother of [[Ocea]], is a deity who e
 >-  **History**:
 >- **Roleplaying Tips**:
 
-# Religion
-## Ideals
+## Religion
+### Ideals
 
-## Worshipers
+### Worshipers
 
 Sailors, fishermen, sea dwellers—anyone who spends their lives surrounded by water—is drawn to worship Geran. His followers often form tight-knit communities that value trust and cooperation above all else. They believe that through their bond with Geran's calming waters they can overcome any storm or challenge that comes their way.
 
-## Temples
+### Temples
 
-# Lore
-## History
+## Lore
+### History
 
-## The Sea's Embrace
+### The Sea's Embrace
 
-# Roleplaying
-## Goals and Motivations
+## Roleplaying
+### Goals and Motivations
 
-## Appearance and Visions
+### Appearance and Visions
 
 When Geran appears to mortals in visions or dreams, he often takes the form of a figure surrounded by serene waves or a gentle cascade of water. His presence embodies tranquility and peace, allowing those who experience it to feel at ease even in their darkest moments.
 
-## Personality Traits
+### Personality Traits
 
 Geran values friendship and calmness. 
 
-## Roleplaying Guide
+### Roleplaying Guide
 
-# Trivia
+## Trivia
 - Many sailors who worship Geran maintain a small shrine on their ships to ask for his protection during their voyages.

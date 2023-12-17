@@ -7,7 +7,7 @@ sum:
 dg-publish: true
 title: Leptys
 date created: Wednesday, October 18th 2023, 10:23:59 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 1:41:26 pm
 ---
 
 - Title : The Beginning    
@@ -41,32 +41,32 @@ His direct subordinates are called the Ascendents Of Life. He gives them orders 
 
 There are many Temples for Leptys arround [[Skoria]]. He is one of the most worshipped Gods, for his origin and abilities.
 
-# Lore
+## Lore
 
-## The Cycle of Life and Death
+### The Cycle of Life and Death
 
 Leptys can give Life, create Life, let [[Skoria]] bloom in all his beauty. His other Part is [[Varuún]] the God of Death. He takes the Souls of the Dead and lead them to their afterlife.
 
 They both need each other to fullfill a working life - death balance in [[Skoria]]. 
 
-# Roleplaying
-## Goals and Motivations
+## Roleplaying
+### Goals and Motivations
 
 Leptys hates [[Varuún]] and everything whats connected with the Afterlife. He is so arrogant that he thinks he created everything in the universe and he should be the master of everyone. He treats himself like a King, when there is no real hierarchy between the gods.
 
 He wants to Destroy everything whats created by [[Varuún]]. He hates Undead.
 
-## Appearance and Visions
+### Appearance and Visions
 
 He is always clothed in golden garments with golden plates. It combines a sort of Mayan/Atztec Styles. He wields a sword that is attached to his special Handarmor Glove.
 
-## Personality Traits
+### Personality Traits
 - He has the Title: "The Beginning"
 - Arrogant, thinks he created everything and everyone
 - thinks he is the king of the world
 - wants to be treated like a higher life form - also by the other gods
  
-# Trivia
+## Trivia
 
 Symbol von Leptys
 

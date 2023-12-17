@@ -1,7 +1,7 @@
 ---
 title: Tiebel
 date created: Wednesday, October 18th 2023, 10:23:59 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 12:21:54 am
 ---
 
 Tiebel ist ein kleines Dorf am Rande einer riesigen Gebirgsformation, der Klingenwand. Das Dorf befindet sich direkt vor einer großen Höhle dieses Gebirges. Die Klingenwand ist berühmt für ihre reichen Erzvorkommen, insbesondere Eisen, Kupfer und seltene Edelsteine. Die Bergarbeiter von Tiebel sind geschickte Handwerker, die das gewonnene Material in hochwertige Waffen, Rüstungen und Schmuckstücke verwandeln können. Das Know-how und die Produkte aus Tiebel sind in der gesamten Region sehr gefragt.

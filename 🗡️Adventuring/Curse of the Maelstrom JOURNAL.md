@@ -1,10 +1,15 @@
+---
+title: Curse of the Maelstrom JOURNAL
+date created: Thursday, December 14th 2023, 12:07:12 am
+date modified: Thursday, December 14th 2023, 12:21:53 am
+---
 
 ## Chapter 1: New Scholars of Evermore
 - [[Rinera]], [[Winston]] and [[Cyrus]] begin to study on the academy of Evermore. They get sorted to their houses and get to know the academy. The get to know Gil, the Nerd. 
 - They chose their study courses. 
 - A magical journey is about to begin. 
 
-## Chapter 2: The Explosive Lab course and the Unknown Posession.
+## Chapter 2: The Explosive Lab Course and the Unknown Posession.
 - [[Rinera]], [[Winston]] and [[Cyrus]] starting 1 year later with their first mandatory practical laboratory course. Professor Zastrath is leading them through the course. 
 	- They got a book with informations about various magical stones to make magical compounds for alchemy and other.
 	- They should start making arcane powder.
@@ -30,4 +35,3 @@ Das Ende aller Zeiten kommt, diese Welt wird zerstört
 - The next day they went to Skripi (the principal) and got a mission.
 - They need to create a Mythal and carry it to Rockwell, to master [[Anitor the Arcane]] and then to [[Lichtor]]
 - They need to go as 3. They decided to take [[Tuna]] with them.
-

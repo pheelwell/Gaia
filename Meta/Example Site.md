@@ -3,15 +3,15 @@ dg-publish: true
 type: Meta
 title: Example Site
 date created: Friday, October 6th 2023, 6:38:58 pm
-date modified: Monday, December 11th 2023, 5:54:53 pm
+date modified: Thursday, December 14th 2023, 1:41:27 pm
 banner: "![[Zarineshian Temple.png]]"
 ---
 
-# Example
+## Example
 
 This is an example Obsidian note.
 
-## Headers
+### Headers
 
 ```
 # H1
@@ -22,14 +22,14 @@ This is an example Obsidian note.
 ###### H6
 ```
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
+## H1
+### H2
+#### H3
+##### H4
+###### H5
 ###### H6
 
-## Text Formatting
+### Text Formatting
 
 ```
 **Bold**
@@ -46,7 +46,7 @@ This is an example Obsidian note.
 
 `Inline code`
 
-## Lists
+### Lists
 
 ```
 Unordered list:
@@ -72,7 +72,7 @@ Ordered list:
 	1. Subitem 1.1 
 2. Item 2 
 
-## Links and Images
+### Links and Images
 
 ```
 [Link to Obsidian](https://obsidian.md)
@@ -84,7 +84,7 @@ Ordered list:
 
 ![Image](https://example.com/image.png)
 
-## Blockquotes
+### Blockquotes
 
 ```
 > This is a quote.
@@ -94,7 +94,7 @@ Ordered list:
 > This is a quote.
 > - Author Name
 
-## Callout
+### Callout
 ```
 > [!tip]: This is a callout box.
 ```
@@ -121,7 +121,7 @@ Ordered list:
 >[!secret]-
 > This should not be directly revealed to a player
 
-## Code Blocks
+### Code Blocks
 
 ```python example.py```:
 
@@ -132,7 +132,7 @@ def greet(name):
 greet("Obsidian")
 ``` 
 
-## Tables
+### Tables
 
 ```
 | Header | Header | Header |
@@ -148,7 +148,7 @@ greet("Obsidian")
 | Cell   | Cell   | Cell   |
 | Cell   | Cell   | Cell   |
 
-## Task Lists
+### Task Lists
 
 ```
 - [ ] Task 1
@@ -160,7 +160,7 @@ greet("Obsidian")
 - [x] Task 2 (completed)
 - [ ] Task 3
 
-## Footnotes
+### Footnotes
 
 ```
 This is a sentence with a footnote[^1].
@@ -172,7 +172,7 @@ This is a sentence with a footnote[^1].
 
 [^1]: This is the footnote.
 
-## Horizontal Rules
+### Horizontal Rules
 
 ```
 ---
@@ -180,7 +180,7 @@ This is a sentence with a footnote[^1].
 
 ---
 
-## MathJax
+### MathJax
 
 ```
 Inline equation: $E=mc^2$

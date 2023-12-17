@@ -7,9 +7,9 @@ sum:
   - Sun Magic refers to light and the dark sides of sun rays
   - Lunar Magic refers to the twilight and the tides
   - Sun and Lunar Magic can only be used in its full potential in Gundras, where the big Magic Nodes are located
-title: Sun Magic and Lunar Magic (Divine Magic)
+title: Sun Magic and Lunar Magic
 date created: Wednesday, October 18th 2023, 10:23:59 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Friday, December 15th 2023, 1:08:23 pm
 ---
 ## Overview
 
@@ -25,7 +25,7 @@ Sun and Lunar Magic are two intertwining forces that originate from the magical 
 >- **Current Location**: Primarily practiced in Gundras, near the large magical nodes. (Sun: Aravoss and green plains / Moon: Erenos and Neverlight)
 >- **Roleplaying Tips**: Players interested in using Sun or Lunar Magic should consider how their powers fluctuate based on time of day and proximity to Gundras.
 
-# Description
+## Description
 
 **Sun Magic** pulls its strength from sunlight, as well as a large magical node located within Gundras. It encompasses both light and dark aspects of sun rays, granting its practitioners a range of abilities connected to solar energy. 
 
@@ -35,15 +35,15 @@ This form of magic focuses on twilight energies and the tides, shaping its wield
 
 `When the sun shines, Sun Magic can unleash its full solar power, while the moon shines Lunar Magic can unfold its full potential.`
 
-## Abilities
+### Abilities
 
-## Usage
+### Usage
 
 To use Sun Magic is a great honor, the Sun Elves of Aravoss grant this power only to special Magicians. The Solars are a Special faction which researches the powers behind the sun and Sun Magic. They are power users of Sun Magic.
 
 To use Lunar Magic is also a great honor. Everyone whos a member of the Fogweavers and is found strong enough has the opportunity to learn Lunar Magic. 
 
-## History
+### History
 
 Sun and Lunar Magic was given to the Gundrasi people before the shattering. Only a few survivors kept that ancient techniques in shape and held them restricted.
 
@@ -51,9 +51,13 @@ Sun and Lunar Magic was given to the Gundrasi people before the shattering. Only
 >Theres only one who can use both, he calls himself the wielder of the dusk and dawn. Hes an Eremite, it is said that he must be dead. Some say he lives since the shattering.
 >> [!quote] "As the sun sets and the moon rises, I feel my power ebb and flow like the tides. The power of Sun and Lunar Magic is a force to be reckoned with." - The Wielder of the Dusk and Dawn.
 
-# Roleplaying
+## Roleplaying
 
 Introducing Sun and Lunar Magic into your campaign can provide an interesting twist on traditional magic systems. When creating characters or NPCs who wield these powers, consider how they might be affected by the time of day or proximity to Gundras. As a DM, you could also incorporate storylines revolving around the history of these magical practices or quests involving the powerful magic nodes within Gundras.
 
 > [!seed] Seed, Adventure Hook
 > The players discover an ancient artifact connected to Sun or Lunar Magic. They must uncover its secrets while navigating the fluctuating powers tied to celestial cycles and travel towards Gundras for answers.
+
+- Comes from one giant Nodes
+- Mana is spilled through sun rays
+- There is a big magic boost in sunlight, some spells need the presence of the sun.

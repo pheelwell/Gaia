@@ -6,7 +6,7 @@ sum:
 dg-publish: true
 title: Luniam
 date created: Friday, October 6th 2023, 6:38:58 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 1:41:26 pm
 ---
 
 - Domain: Moon
@@ -34,30 +34,30 @@ Luniam, the enigmatic deity of the Moon, casts a watchful eye over the world as 
 >-  **History**: A deity who has watched over the world since its dawn.
 >- **Roleplaying Tips**: As a follower of Luniam, you value secrets and hidden knowledge. 
 
-# Religion
-## Ideals
+## Religion
+### Ideals
 
-## Worshipers
+### Worshipers
 
-## Temples
+### Temples
 
-# Lore
-## History
+## Lore
+### History
 
-## Celestial Bodies and Their Influence
+### Celestial Bodies and Their Influence
 
 Followers of Luniam believe that celestial bodies such as stars and planets play a significant role in shaping their world. They study these entities closely, seeking to understand how their movements impact not only the physical realm but also the spiritual and magical aspects of existence.
 
-# Roleplaying
-## Goals and Motivations
+## Roleplaying
+### Goals and Motivations
 
-## Appearance and Visions
+### Appearance and Visions
 
-## Personality Traits
+### Personality Traits
 
-## Roleplaying Guide
+### Roleplaying Guide
 
-# Trivia
+## Trivia
 - It is believed that during a lunar eclipse, Luniam's power is at its peak, granting visions or blessings to devout followers.
 - Some followers of Luniam practice a form of divination called lunomancy, which involves interpreting patterns made by moonlight on water or other reflective surfaces.
 - There are rumors of a secret society dedicated to Luniam which seeks to collect and protect ancient artifacts containing hidden knowledge.

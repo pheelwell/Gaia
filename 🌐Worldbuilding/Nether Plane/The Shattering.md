@@ -1,7 +1,7 @@
 ---
 title: The Shattering
 date created: Friday, October 6th 2023, 6:38:50 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 12:21:53 am
 ---
 
 The Shattering was a cataclysmic event resulting from a dispute between two groups of gods. In the process of this dispute, most of the population of [[Skoria]] was wiped out, resetting the whole civilization and wiping out entire species. 

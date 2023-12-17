@@ -11,7 +11,7 @@ sum:
 status: sprout
 title: Irasnian Wastes
 date created: Wednesday, October 18th 2023, 10:19:51 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 1:41:27 pm
 type: Continent
 banner: "![[Irasnian Wastes.png]]"
 banner_y: 0.692
@@ -23,13 +23,13 @@ banner_y: 0.692
 
 The Isranian Wastes is a vast and unforgiving desert region filled with mystery, danger, and adventure lying just below [[The Basin]]. This harsh environment is marked by extreme temperatures, scarce resources, and a sparse population that manages to survive in this seemingly inhospitable land. With ancient ruins hidden beneath the sands, nomadic tribes roaming its expanse, and mighty creatures lurking in its depths, the Isranian Wastes captivate those seeking to uncover its secrets.
 
-# Geography
-## Notable Settlements:
+## Geography
+### Notable Settlements:
 - [[Ergon]]: A major trade hub built on [[Zarinesh's Hand]].
 - [[Grediran Karawan]]: Scattered throughout the wastes; fiercely guarded and serve as rest stops for travelers.
 - [[Quorritset]]: A Oasis Settlement with Ancient History
 
-## Scenery and Climate:
+### Scenery and Climate:
 
 The Isranian Wastes stretch below [[The Basin]], a seemingly endless expanse of sand dunes broken only by jagged rock formations. In the eastern regions of this desolate landscape lies [[Zarinesh's Hand]] - an enormous stone hand that serves as both a geographical wonder and a divine symbol. The [[Lifeblood River]] flows from this colossal monument towards the Cold Sea in the south, providing much-needed water for those who dwell nearby.
 
@@ -37,14 +37,14 @@ Central regions of Isranian Wastes are dominated by The Salt Flats - vast areas 
 
 The climate is one of extremes: scorching days give way to freezing nights where temperatures can plummet drastically within hours. Sandstorms are a common occurrence making navigation difficult even for those well-acquainted with this hostile terrain.
 
-## Flora and Fauna:
+### Flora and Fauna:
 
 Despite its desolate appearance, the Isranian Wastes are home to a diverse range of flora and fauna. Along the [[Lifeblood River]], hardy vegetation thrives, fed by the precious water that flows from [[Zarinesh's Hand]]. The delta where the river meets the Cold Sea is lush and green, a stark contrast to the barren wasteland that surrounds it.
 
 Many dangerous creatures have adapted to life in this harsh environment, such as giant scorpions, sand worms, and desert drakes. These formidable beasts pose a significant threat to travelers who dare to venture into their territories without proper precautions.
 
-# Population
-## Culture and Religion:
+## Population
+### Culture and Religion:
 
 The inhabitants of Isranian Wastes are an adaptive people who have learned how to survive in their challenging surroundings. They place great importance on self-sufficiency and resourcefulness and develop unique practices centered around water conservation and reverence for their harsh environment.
 
@@ -52,7 +52,7 @@ Religion plays a significant role in their lives with many worshiping [[Zarinesh
 
 Superstitions surrounding The Salt Flats are also prevalent with many tribes believing that they are cursed lands haunted by restless spirits who wander aimlessly through its desolate expanse.
 
-## Unique Races:
+### Unique Races:
 
 [[Quorritset]]: Small, reptilian creatures standing at around 3-4 feet tall with tough, leathery skin covered in fine scales. They have large, frilled ears that help dissipate heat and sharp claws for digging into the sand to find water and food.
 
@@ -64,7 +64,7 @@ Superstitions surrounding The Salt Flats are also prevalent with many tribes bel
 
 [[Garruk]]: These large, furry humanoids have adapted to the extreme temperatures of the Isranian Wastes through their thick fur coats and impressive endurance. Garruks possess great strength and agility, making them formidable opponents in combat.
 
-## Politics and Economy:
+### Politics and Economy:
 
 The economy within Isranian Wastes is heavily reliant on trade between nomadic tribes and oasis settlements. [[Ergon]] serves as a major hub for these trade routes connecting various desert settlements with coastal cities along the Cold Sea. Goods such as textiles, metalwork, and precious stones are exchanged for essential supplies like food and water needed for survival in this harsh land.
 
@@ -72,17 +72,17 @@ Conflicts over resources, trade routes, and ancient ruins often occur between ri
 
 Pirate syndicates operating in the delta regions near the [[Cold Sea]] pose a significant threat to trade caravans and travelers, often stealing valuable goods or kidnapping passengers for ransom.
 
-## Factions
+### Factions
 - [[Isranian Merchant Tribes]] focused on Trade and Economics 
 - [[Oranu Tribe]] focused on surviving in nature
 
-## History and Origin:
+### History and Origin:
 
 The Isranian Wastes' history is shrouded in mystery with tales of hidden cities, ancient civilizations, and divine battles shaping the landscape. The massive monument of [[Zarinesh's Hand]] serves as a constant reminder of the deity who lost it during [[The Shattering]], an event that has left its mark on both the land and its inhabitants.
 
 It is believed that an underground network connecting key locations within Isranian Wastes exists, hinting at a deeper connection between the scattered settlements and nomadic tribes that dwell within this desolate land.
 
-# Trivia
+## Trivia
 
 - Deep within the desert lies a hidden valley where lush vegetation and rare animals thrive, untouched by the harsh conditions surrounding it. This oasis is fiercely guarded by reclusive tribes who view outsiders with suspicion and hostility.
 - The Isranian Wastes are home to an enigmatic order of mystics known as the [[Sand Whisperers]], who have learned to harness the raw elemental power of their environment. They are sought after for their wisdom and guidance but are notoriously difficult to find.

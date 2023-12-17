@@ -9,7 +9,7 @@ sum:
 title: Defilers
 type: Faction
 date created: Friday, October 6th 2023, 7:41:44 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 1:41:27 pm
 ---
 
 The Defilers were formed in the wake of a great tragedy, when a powerful necromancer named [[General Malachi.md|Malachi]] was exiled from her home in [[Lichtachte]]. Desperate and alone, [[General Malachi.md|Malachi]] was determined to make a new life for herself, free from persecution. To that end, she traveled to [[The Basin]] and set up camp with her loyal followers, who had also been exiled from their homes.
@@ -28,7 +28,7 @@ Eventually, more and more people began to embrace the Defilers as part of their 
 
 Even those in [[Lichtachte]], who had once exiled [[General Malachi.md|Malachi]] for her necromancy, eventually acknowledged her leadership and strength - if not her methods - and welcomed the Defilers into their cities as honorable allies. In time, [[General Malachi.md|Malachi]]’s vision became a reality: The Defilers were no longer viewed as monsters or enemy forces but as valuable members of society whom brought peace to [[The Basin]].  
 
-# Organization Structure
+## Organization Structure
 
 The Defilers have an organized and disciplined structure, with [[General Malachi]] as their leader and [[Grushnak]], the orc chieftain, as her second-in-command. All of their members are expected to be loyal and follow orders without question. 
 

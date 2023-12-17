@@ -1,7 +1,7 @@
 ---
 title: Arcane Union Of Magic Knowledge
 date created: Wednesday, October 18th 2023, 10:23:59 pm
-date modified: Friday, December 8th 2023, 11:02:54 pm
+date modified: Thursday, December 14th 2023, 12:21:54 am
 ---
 
 Umgangssprachlich auch nur Arcane Union oder Union genannt. 

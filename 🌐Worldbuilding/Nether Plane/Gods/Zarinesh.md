@@ -7,14 +7,14 @@ sum:
 dg-publish: true
 title: Zarinesh
 date created: Wednesday, October 18th 2023, 10:19:51 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 1:41:26 pm
 ---
 
 - Domain: Synthetics
 - Associated Element: Manipulation
 - Virtue: Research 
 
-# Notes:
+## Notes:
 
 has lost a hand
 
@@ -22,11 +22,11 @@ has lost a hand
 
 Zarinesh, the deity of synthetics and manipulation, is a highly enigmatic figure in the world of gods and goddesses. Known for their fascination with research and experimentation, Zarinesh has devoted their existence to the pursuit of knowledge and advancement. With a keen interest in blending nature and technology, they have become the patron deity of inventors, tinkerers, and those who seek to push the boundaries of what is possible.
 
-## Appearance
+### Appearance
 
 Zarinesh is often depicted with an ethereal, otherworldly beauty that seems both organic and synthetic at the same time. Their form is fluid, constantly shifting between different shapes and configurations as if to highlight their mastery over matter itself. One particularly striking feature is their left hand which appears to be missing; it is said that Zarinesh lost it during a great cataclysm known as [[The Shattering]].
 
-## Worship and Followers
+### Worship and Followers
 
 The followers of Zarinesh are often found in places where innovation thrives. Artificers, engineers, alchemists - anyone who seeks to push the limits of what is possible through research and experimentation may find themselves drawn to this mysterious deity.
 
@@ -34,11 +34,11 @@ Worshipers of Zarinesh value progress above all else; they believe that there ar
 
 They alter their Bodys to Enhance themselves.  
 
-## Symbol
+### Symbol
 
 The symbol of Zarinesh is typically represented as a stylized spiral or helix pattern - evoking ideas of constant change and evolution. This emblem can be found adorning the tools and clothing of their worshipers as well as being prominently displayed in their temples.
 
-### Temples
+#### Temples
 
 The temples of Zarinesh are architectural marvels, showcasing the perfect blend of organic and synthetic elements. They are often constructed using advanced materials and building techniques, creating a structure that seems to defy the laws of conventional engineering. The overall design is fluid and dynamic, with smooth curves and organic shapes that flow seamlessly into one another.
 

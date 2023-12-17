@@ -4,7 +4,7 @@ dg-publish: true
 status: sprout
 title: Ergon
 date created: Wednesday, October 18th 2023, 10:19:51 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 1:41:27 pm
 ---
 
 > [!quote] "The people of Ergon are like cacti in the desert - resilient, adaptable, and able to make use of every resource at their disposal." - A proud Ergonian citizen
@@ -57,7 +57,7 @@ Naleen is a charismatic entrepreneur who owns The Gilded Dune Tavern – one of 
 
 > [!seed] A mysterious illness has stricken the oasis that sustains Ergon, causing its waters to become tainted and undrinkable. The citizens turn to adventurers for help in finding the source of the contamination and restoring their life-giving water supply.
 
-# Politics and Economy:
+## Politics and Economy:
 
 The government of Ergon is an oligarchy, where a council of influential citizens, including Master Artificer Tornas, High Priestess Hara, and Captain Ishara, make decisions for the city's welfare. This council ensures that trade routes remain open and prosperous while maintaining good relations with neighboring settlements and nomadic tribes.
 
@@ -69,7 +69,7 @@ Ergon's oasis plays a crucial role in sustaining the city's economy, as it provi
 
 > [!seed] Unscrupulous individuals have begun smuggling illegal goods through Ergon's trade routes, threatening to destabilize its economy and political standing within the region. Adventurers are needed to help uncover this illicit operation and bring those responsible to justice.
 
-# Diplomatic Relations:
+## Diplomatic Relations:
 
 Ergon maintains diplomatic relations with other settlements in the [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]], as well as several nomadic tribes who rely on trade with the city for their survival. While relationships between these groups are generally amicable, disputes can arise over resources or territory, leading to tense negotiations or even skirmishes.
 
@@ -77,7 +77,7 @@ The ruling council of Ergon places great importance on maintaining good relation
 
 > [!seed] A diplomatic envoy from a neighboring settlement has gone missing on their way to Ergon. The city's council suspects foul play and hires adventurers to investigate the disappearance and ensure the delegation's safe return.
 
-# Currency and Trade:
+## Currency and Trade:
 
 Ergon's currency is known as the [[Sunstone]], a valuable gemstone found deep within [[Zarinesh's Hand]]. These sunstones are used both as currency within the city and as a trade item in wider regional commerce.
 
@@ -85,11 +85,11 @@ In addition to its unique crafted goods, Ergon also exports resources such as sa
 
 > [!info] Players looking to purchase unique items or sell valuable goods may find lucrative opportunities in Ergon's Helix Plaza or by engaging with traveling merchants passing through the city.
 
-# History:
+## History:
 
 The city was founded by resourceful settlers who discovered [[Zarinesh's Hand]] in their search for water. Over time, the settlement grew into a thriving metropolis as more people sought refuge from the harsh desert environment.
 
-# Culture and Religion:
+## Culture and Religion:
 
 Ergon's diverse population has given rise to a vibrant culture that reflects the various traditions of its inhabitants. Music, dance, and storytelling are integral parts of Ergonian cultural expression, often performed in public spaces like the Helix Plaza or at The Gilded Dune Tavern.
 
@@ -103,7 +103,7 @@ In addition to [[Zarinesh]] worship, Ergon also embraces animistic beliefs cente
 
 > !read [[Zarinesh's Hand]]. The air is filled with the sound of laughter and applause, reflecting the city's indomitable spirit in the face of adversity.
 
-# Geography and Climate:
+## Geography and Climate:
 
 Located within the harsh [[🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Irasnian Wastes]], Ergon faces an unforgiving desert climate with scorching temperatures during the day and freezing nights. The city's unique location within [[Zarinesh's Hand]] offers some protection against these harsh conditions, while its oasis provides life-sustaining water for its inhabitants.
 

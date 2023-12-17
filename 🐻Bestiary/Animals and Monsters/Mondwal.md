@@ -1,7 +1,7 @@
 ---
 title: Mondwal
 date created: Wednesday, October 18th 2023, 10:23:59 pm
-date modified: Monday, December 11th 2023, 5:54:52 pm
+date modified: Thursday, December 14th 2023, 12:21:53 am
 ---
 
 Der Mondwal lebt in den Gewässern in ganz [[Skoria]]. Er lebt im Einklang mit der Mondmagie und der Arkanen Energie die überall in [[Skoria]] zu finden ist. Er kann sich im Fall der Fälle sogar von der Arkanen Energie ernähren. Der Mondwal steht für die Magie um uns herum und das erschaffen von etwas neuem durch Magie. [[Luniam]] hat diese Tiere geschaffen um die Mondmagie zu stärken. 
