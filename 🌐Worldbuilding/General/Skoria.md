@@ -11,7 +11,7 @@ Welcome, traveler, to the mystical world of Skoria. This land is full of secrets
 
 ## The Aftermath of [[The Shattering]]
 
-[[The Shattering]] was a cataclysmic event that resulted from a dispute between two groups of [[gods]]. The conflict caused devastation on a massive scale, wiping out 85% of Skoria's population and resetting the entire civilization. Many species were forever lost as a result of this apocalyptic event.
+[[The Shattering]] was a cataclysmic event that resulted from a dispute between two groups of [[Gods]]. The conflict caused devastation on a massive scale, wiping out 85% of Skoria's population and resetting the entire civilization. Many species were forever lost as a result of this apocalyptic event.
 
 In the wake of [[The Shattering]], the god [[Arathor]] built a barrier between Skoria and the [[Nether Plane]] with the help of [[Lar]]. They used the remains of Umbrial to create this barrier, preventing any further direct interference from divine beings in Skoria.
 
@@ -45,12 +45,12 @@ Some of the most powerful arcane knowledge in Skoria can be found within its mag
 
 ## [[Divine History]] And Its Influence on Skoria
 
-With divine forces finding ways to infiltrate Skoria once again, the world began experiencing an increase in otherworldly encounters. As [[gods]] sought to influence mortals through various means, societies adapted and evolved in response to these divine interventions.
+With divine forces finding ways to infiltrate Skoria once again, the world began experiencing an increase in otherworldly encounters. As [[Gods]] sought to influence mortals through various means, societies adapted and evolved in response to these divine interventions.
 
 The presence of divine forces has also led to the rise of religious orders and cults dedicated to serving specific deities or pantheons. This further complicates the relationships between different races and kingdoms, as religious beliefs often clash with political agendas.
 
 > [!warning] Caution
-> Divine influences can sometimes lead characters down dangerous paths or into conflicts with powerful beings beyond their comprehension. Tread carefully when dealing with matters involving [[gods]] or other supernatural entities.
+> Divine influences can sometimes lead characters down dangerous paths or into conflicts with powerful beings beyond their comprehension. Tread carefully when dealing with matters involving [[Gods]] or other supernatural entities.
 
 ## Conclusion
 

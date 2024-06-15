@@ -54,3 +54,92 @@ The choice of emotional preference occurs organically over time as the Relakra '
 Relakras are believed to have originated from an ancient lineage of elf-like beings that had a deep connection with the emotional realm. This connection evolved over time into their present form - humanoid beings capable of sensing and feeding off other creatures' emotions while bearing an emotion-infused orb within them.
 
 Due to this unique feeding habit wherein each absorbed emotion could potentially alter the course of their lives by changing their subrace affinity, each individual's life journey is filled with richly diverse experiences creating vivid tales full of emotional dynamism - stories relished by other races creating unique bonds between the otherwise solitary Relakras and those around them.
+
+
+write lyrics for a metal song out of the viewpoint of a Relakra. First write about in what situation the song could have been written and then write the song:
+
+
+### Song Context
+
+The metal song could have been penned by a Relakra who has lived through numerous emotional cycles and is now reflecting on their existence's tumultuous nature. This Relakra, who we'll refer to as a "Riftwalker," has dwelled among many civilizations, feeding on the vast spectrum of emotions they exude.
+
+Throughout their journey, the Riftwalker has been part of countless wars and moments of peace, love and hatred, life and death. As centuries pass, they've witnessed empires crumble and new ones rise from ashes—all while searching for meaning in their relentless pursuit of emotional sustenance.
+
+Now, standing on the precipice of an ancient battlefield awash with fresh pain and sorrow - emotions that offer them no sustenance but instead a profound understanding - they sing of the isolation that comes with being an eternal outsider looking in. The haunting beauty in the darkness they must embrace to survive is what fuels this heavy, melancholic melody.
+
+### Metal Song: "Eternal Outsider"
+
+
+[Verse]
+Wandering through the aeons' shadow,
+Feasting on echoes of joy and sorrow,
+In my chest, a gleaming hollow,
+A beacon through time I follow.
+
+[Chorus]
+Riftwalker! Eternal Outsider!
+In your heart lies the world's pyre!
+Riftwalker! Emotion's Divider!
+Your soul aflame with borrowed fire!
+
+[Verse]
+I dance with spirits in twilight's embrace,
+Gorge on fears that quicken my pace,
+An orb reflecting every face,
+Yet none can fill my empty space.
+
+[Bridge]
+Harvester of silent screams,
+Drifter between life's extremes,
+An anomaly within the streams
+Of humanity's fractured dreams.
+
+[Chorus]
+Riftwalker! Eternal Outsider!
+In your heart lies the world's pyre!
+Riftwalker! Emotion's Divider!
+Your soul ablaze with stolen desire!
+
+[Bridge into Breakdown]
+
+[Verse 3]
+I've bathed in passion’s crimson tide,
+Felt envy’s sting deep inside.
+Borne witness as empires died
+And thrived upon what they provide.
+
+[Breakdown]
+Each beat a cycle within me ends,
+A symphony that never mends.
+On this path that ever bends –
+I am alone amongst my friends.
+
+[Final Chorus]
+Riftwalker! Eternal Outsider!
+In your heart lies the world's pyre!
+Riftwalker! Emotion’s Divider!
+Destined to feed but never tire!
+
+[Outro]
+As I walk through fire and rain
+My glowing heart bears their pain.
+I am bound to this bittersweet chain—
+The Eternal Outsider remains.
+
+
+describe bad omens vocal style
+
+
+Bad Omens is an American metalcore band known for their intense and dynamic vocal style. Their vocal approach typically involves a mix of:
+
+1. **Harsh screams and growls**: The lead vocalist, Noah Sebastian, employs various harsh vocal techniques including low guttural growls and high-pitched screams to convey aggression and emotional intensity. These are common elements in metalcore and are used to accentuate the heavier parts of their music.
+
+2. **Clean singing**: Sebastian also showcases melodic clean singing which contrasts with the aggressive screams. His clean vocals are smooth and often carry a sense of melancholy or introspection, complementing the lyrics and providing a dynamic range within their songs.
+
+3. **Layered harmonies**: To add depth to their sound, Bad Omens often use layered vocal harmonies during choruses or key moments in a song. These harmonies enhance the melodic aspects of their music and provide a richer listening experience.
+
+4. **Emotional delivery**: Regardless of the technique being employed, there is an emphasis on emotional expression within Bad Omens' vocal style. Whether through screams or singing, there's a palpable sense of urgency and sincerity that characterizes their vocal delivery.
+
+5. **Versatility**: Their music spans across several moods and intensities, requiring Sebastian to switch between different vocal styles seamlessly within songs or across their discography.
+
+Bad Omens' vocal style is crucial to their sonic identity as it offers both melody for accessibility and harshness for intensity, capturing the full spectrum of emotions that they aim to express in their music.
