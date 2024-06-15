@@ -18,7 +18,7 @@ date modified: Friday, December 15th 2023, 1:39:10 am
 ---
 ## Overview
 
-Lichtachte is a bastion of light in the otherwise dark and troubled lands of [[The Basin]]. The city is ruled by the [[League of Arathor]], led by High Paladin [[High Paladin Erathenar.md|Erathenar]]. It stands as a symbol of hope against the forces of darkness, particularly those commanded by General [[General Malachi.md|Malachi]] and her undead army, known as the [[Defilers]]. The city itself is known for its impressive Cathedral of Light, which houses the powerful Artifact called [[Sundawn]].
+Lichtachte is a bastion of light in the otherwise dark and troubled lands of [[The Basin]]. The city is ruled by the [[League of Arathor]], led by High Paladin [[High Paladin Erathenar|Erathenar]]. It stands as a symbol of hope against the forces of darkness, particularly those commanded by General [[General Malachi.md|Malachi]] and her undead army, known as the [[Defilers]]. The city itself is known for its impressive Cathedral of Light, which houses the powerful Artifact called [[Sundawn]].
 
 ## Geography
 
@@ -33,7 +33,7 @@ Nearby [[Trollbans Hold]] also relies on Lichtachte for support and protection f
 
 ## Notable Figures
 
-- *High Paladin [[High Paladin Erathenar.md|Erathenar]]*: The leader of the [[League of Arathor]], known for his dedication to justice and honor. He is well-respected by the people of Lichtachte and has led his forces to many victories against General [[General Malachi.md|Malachi]]'s [[Defilers]].
+- *High Paladin [[High Paladin Erathenar|Erathenar]]*: The leader of the [[League of Arathor]], known for his dedication to justice and honor. He is well-respected by the people of Lichtachte and has led his forces to many victories against General [[General Malachi.md|Malachi]]'s [[Defilers]].
 - [[Wallaricus the Wise]]: [[Ransden]]
 
 ## Factions

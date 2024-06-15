@@ -3,7 +3,7 @@ dg-publish: true
 type: NPC
 title: Wallaricus the Wise
 date created: Friday, October 6th 2023, 6:39:54 pm
-date modified: Thursday, December 14th 2023, 12:21:54 am
+date modified: Sunday, June 16th 2024, 12:33:39 am
 ---
 
 Have you heard the stories about Wallaricus the Wise?" a young student whispered to his friend as they sat in the temple halls. "They say he has the knowledge of a thousand scholars and can see through any deception. But there's also something unsettling about him, like he's constantly on guard against some unseen threat. I wonder what secrets he hides behind those wise, watchful eyes."
@@ -59,5 +59,4 @@ When roleplaying Wallaricus, emphasize his wisdom and experience while also port
 
 - Wallaricus is an expert in ancient languages and texts, making him a valuable resource for deciphering mysterious artifacts or uncovering long-lost knowledge.
 - He is known to have connections with various factions throughout [[The Basin]], which he uses to gather information and forge alliances.
-- Wallaricus has recently discovered an ancient prophecy that may be connected to [[Naruun]]'s manipulation of the war within [[The Basin]]. He is seeking more information before revealing his findings.
 - The Library of Echoes: A hidden library within [[Lichtachte]] that houses Wallaricus' extensive collection of books, scrolls, and artifacts.

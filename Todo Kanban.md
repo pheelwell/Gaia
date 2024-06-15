@@ -12,6 +12,7 @@ date modified: Friday, December 15th 2023, 1:08:22 pm
 - [ ] Chore: Go through all Images and check if they are there
 - [ ] Chore: Add good Metadata
 - [ ] Add sizes for h4-h6
+- [ ] add callout icons
 
 
 ## Done

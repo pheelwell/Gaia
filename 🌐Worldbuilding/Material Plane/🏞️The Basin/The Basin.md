@@ -17,6 +17,7 @@ sum:
   - History involves ancient forces or gods shaping the land; hidden underground network connects key locations
 date created: Friday, October 6th 2023, 7:41:44 pm
 date modified: Friday, December 15th 2023, 1:08:23 pm
+banner: "![[The Basin.png]]"
 ---
 
 ![[The Basin.png]]

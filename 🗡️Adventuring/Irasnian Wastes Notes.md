@@ -1,7 +1,7 @@
 ---
 title: Irasnian Wastes Notes
 date created: Sunday, November 12th 2023, 1:21:36 pm
-date modified: Thursday, December 14th 2023, 1:41:26 pm
+date modified: Saturday, June 15th 2024, 11:08:29 pm
 ---
 ## Behind the Scenes
 - Spieler sind auf Rücken eines Crawlers, eines Irasnischen Konstrukts das die Wüste durchquert
@@ -11,8 +11,6 @@ date modified: Thursday, December 14th 2023, 1:41:26 pm
 - Crawler ist auf den Weg nach [[Ergon]] 
 	- Rindal ist eine Priesterin des [[Zarinesh]] dem Gott der Veränderung und Snytetik. (silberne verschnörkelte Ornamente, religion wurf) Hat Artefakt das nach [[Ergon]] muss in einen Tempel 
 	- Karach ist ein Gnom (Der [[The Goats.md|Goats]], Werwolf) der das Artifakt klauen möchte. Wenn die Reise vorbei ist
-	- 
-
 ## Räume Des Crawlers:
 
  - Steuerkammer: Hier befindet sich die Kontrollkonsole des Crawlers, von der aus der Fahrer das riesige Konstrukt lenkt. Die Wände sind mit Schaltern, Hebeln und Bildschirmen bedeckt, die alle mit verschiedenen Funktionen des Crawlers verbunden sind. Der Raum ist relativ klein und eng, aber gut beleuchtet.
