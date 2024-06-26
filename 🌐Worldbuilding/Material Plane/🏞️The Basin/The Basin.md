@@ -16,11 +16,8 @@ sum:
   - Known for weaponsmithing and valuable resource Stoalium from Mines of Torrar
   - History involves ancient forces or gods shaping the land; hidden underground network connects key locations
 date created: Friday, October 6th 2023, 7:41:44 pm
-date modified: Friday, December 15th 2023, 1:08:23 pm
-banner: "![[The Basin.png]]"
+date modified: Sunday, June 16th 2024, 1:16:13 am
 ---
-
-![[The Basin.png]]
 
 As twilight descends upon the Ivagur Peaks, casting long shadows across the Basin, a solitary traveler journeys along an ancient path. The [[Silent River]] winds gracefully around the hill atop which [[Edschmied]] stands sentinel, its waters glimmering like molten silver in the dwindling light. Within this secluded and diverse land, a myriad of tales and mysteries await those bold enough to seek them out.
 
