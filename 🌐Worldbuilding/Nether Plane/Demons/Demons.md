@@ -2,7 +2,7 @@
 title: Demons
 type: Meta
 date created: Monday, December 11th 2023, 1:18:30 pm
-date modified: Thursday, December 14th 2023, 1:41:27 pm
+date modified: Thursday, June 27th 2024, 1:20:14 am
 banner: "![[Demons.png]]"
 banner_y: 0.332
 sum:
@@ -64,7 +64,6 @@ Tormentors revel in pain—not merely physical but emotional anguish too profoun
 ### Devourers
 
 Devourers personify gluttony unchecked—a relentless pursuit to consume without end nor satisfaction ever attained. Often depicted as gaping maws surrounded by writhing tentacles or masses engulfing everything around them without prejudice—flesh, bone, stone—all dissolve equally within ravenous voids that serve as bodies for these demons.
-
 
 ## Origin
 

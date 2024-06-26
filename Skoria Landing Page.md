@@ -2,8 +2,10 @@
 dg-publish: true
 dg-skoria-home: true
 type: Meta
+title: Skoria Landing Page
+date created: Thursday, June 27th 2024, 1:15:43 am
+date modified: Thursday, June 27th 2024, 1:17:08 am
 ---
-
 
 Welcome to the Digital Garden of [[Skoria]] Lore
 
@@ -16,8 +18,8 @@ Delve into the mystical world of [[Skoria]], a land filled with secrets, history
 - The mysterious water prison in [[Levia]]
 - The dark secrets of [[Gundras]]
 
-
 Explore unique subclasses such as:
+
 - The enigmatic [[Shadow Hunter]]
 - The powerful [[Cult of the Gifted Ones (Class)]]
 

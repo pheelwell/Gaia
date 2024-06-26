@@ -1,7 +1,7 @@
 ---
 title: Quorritset
 date created: Wednesday, October 18th 2023, 10:19:51 pm
-date modified: Thursday, December 14th 2023, 1:41:27 pm
+date modified: Thursday, June 27th 2024, 1:20:15 am
 banner: "![[Quorritset.png]]"
 ---
 

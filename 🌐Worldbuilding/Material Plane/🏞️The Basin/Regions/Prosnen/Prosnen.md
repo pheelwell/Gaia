@@ -3,7 +3,7 @@ dg-publish: true
 title: Prosnen
 type: Settlement
 date created: Friday, October 6th 2023, 7:41:43 pm
-date modified: Monday, December 11th 2023, 5:54:55 pm
+date modified: Thursday, June 27th 2024, 1:20:15 am
 ---
 
 Home of [[Ransden]]
