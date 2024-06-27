@@ -4,10 +4,6 @@ date created: Friday, October 6th 2023, 6:38:52 pm
 date modified: Thursday, December 14th 2023, 1:41:27 pm
 ---
 
----
-type: Meta
-dg-publish: true
----
 ## Folder Structure
 
 Obsidian notes in this Repo are structured this way:

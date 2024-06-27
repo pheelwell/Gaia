@@ -2,7 +2,6 @@
 	"nodes":[
 		{"type":"group","id":"e3a9a728e6154c3a","x":-2840,"y":-1040,"width":2240,"height":1960,"label":"Isranian desert "},
 		{"type":"group","id":"961299de9ff04cfa","x":-400,"y":-3200,"width":1880,"height":2000,"label":"Ergon"},
-		{"type":"text","text":"**concept fantasy art portrait of a clean organic-synthetic alien deity with a missing left hand, surrounded by intricate machinery and bioluminescent plants --ar 3:4**","id":"b133b6f23e60f248","x":-380,"y":-1527,"width":230,"height":50},
 		{"type":"file","file":"🌐Skoria/Pictures/Inner Crystal Forest.png","id":"306e8233ad1afde8","x":-1800,"y":-880,"width":400,"height":224},
 		{"type":"file","file":"🌐Skoria/Pictures/Grediran Shaman.png","id":"4bcbaab0d43adcf0","x":-2280,"y":-400,"width":301,"height":400},
 		{"id":"b0e8252c59f868e3","type":"file","file":"🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Lifeblood River.md","x":-3320,"y":-2160,"width":400,"height":400},
@@ -40,7 +39,8 @@
 		{"type":"text","text":"**concept fantasy art of a temple entrance in desert city with metallic walls in desert intertwined with vines and organic matter and oasis flora, a large intricate gate made of metal and living matter, and an interior featuring a grand altar adorned with complex machinery and organic sculptures, illuminated by blue light and bioluminescent, dry, in the style of dungeons and dragons concept art**","id":"23a54358098f365c","x":520,"y":-2380,"width":240,"height":120},
 		{"type":"file","file":"🌐Skoria/Pictures/Zarinesh Temple in Ergon.png","id":"0be345482372a808","x":460,"y":-2180,"width":400,"height":224},
 		{"type":"file","file":"🌐Skoria/Pictures/Zarineshian Temple.png","id":"1f9101e21cccb806","x":-40,"y":-2140,"width":400,"height":301},
-		{"type":"file","file":"🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Regions/Ergon.md","id":"80c301a0ded191d3","x":1000,"y":-1720,"width":400,"height":400}
+		{"type":"file","file":"🌐Skoria/🌐Worldbuilding/Material Plane/🏜️Irasnian Wastes/Regions/Ergon.md","id":"80c301a0ded191d3","x":1000,"y":-1720,"width":400,"height":400},
+		{"type":"text","text":"**concept fantasy art portrait of a clean organic-synthetic alien deity with a missing left hand, surrounded by intricate machinery and bioluminescent plants --ar 3:4**","id":"b133b6f23e60f248","x":-380,"y":-1527,"width":230,"height":50}
 	],
 	"edges":[
 		{"id":"2576aea95817741c","fromNode":"70abc58320433686","fromSide":"top","toNode":"306e8233ad1afde8","toSide":"bottom"},
