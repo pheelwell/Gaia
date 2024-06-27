@@ -1,3 +1,9 @@
+---
+title: Yndrah (Undercity)
+date created: Thursday, June 27th 2024, 1:15:43 am
+date modified: Thursday, June 27th 2024, 1:20:14 am
+---
+
 Zwei Schichten, Stadt unter Stadt 
 
 ![[AboveUndercity.png]]
@@ -5,7 +11,11 @@ Zwei Schichten, Stadt unter Stadt
 Die Stadt ist auf einem Berg auf einer Insel in einem verseuchten See. Um in die Stadt zu gelangen muss man mit einem Boot über den See. Die boote sind abgeschottet um die dämpfe des Sees nicht ins inneres zu lassen. 
 
 Klarburg 
+
 Hellburg
+
 Hellmarstein
+
 Hellenstein
+
 Yndrah

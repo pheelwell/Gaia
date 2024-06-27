@@ -21,7 +21,7 @@ sum:
 status: sprout
 title: Nefaris
 date created: Thursday, December 14th 2023, 12:07:01 am
-date modified: Sunday, June 16th 2024, 1:05:00 am
+date modified: Thursday, June 27th 2024, 1:35:16 am
 ---
 
 - Domain: Contracts
@@ -65,3 +65,17 @@ Nefaris stands as a figure both revered and feared within his dominion—an Arch
 >[!secret] Rumors whisper that those bold enough to strike a bargain directly with Nefaris might gain immeasurable boons; yet such deals come at costs so exorbitant that only those blind with desperation or ambition would dare engage him.
 
 Within his dominion and beyond its fiery borders into the mortal planes, Nefaris' influence subtly permeates as he orchestrates his minions' infiltration into pivotal roles—all partaking in his grand stratagem bound by inviolable contracts inked in either blood or soulfire.
+
+## Temples
+
+Nefaris has few temples. There are not many people worshipping him for whom he is. His status as devil and punisher in the afterlife gives not the best reasons to worship him. 
+
+## Lore
+### History
+
+Nefaris was always a strict character who loved order. He created his devils which serve him to control the many different Sins the mortals commit. He has created many different Devils to serve him, each of them has its own specialities to 
+
+## Roleplaying
+
+## Trivia
+- Nefaris and his Devils love to deal with opressive contracts.

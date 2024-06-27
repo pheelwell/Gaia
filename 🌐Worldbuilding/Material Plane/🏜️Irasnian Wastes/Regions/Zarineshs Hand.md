@@ -3,16 +3,16 @@ type: Region
 dg-publish: true
 sum: "Zarinesh's Hand is a colossal stone hand in the Irasnian Wastes, believed to belong to deity Zarinesh.,City of Ergon is built at the base of Zarinesh's Hand and has an ancient temple dedicated to Zarinesh.,Lifeblood River sustains life in Irasnian Wastes, flowing out from tiny cracks within Zarinesh's Hand.,Religious practices and cults center around venerating or harnessing the power of Zarinesh's Hand.,Events and festivals celebrate connection between Ergon and Zarinesh's Hand, including annual pilgrimage to the top.,Rumors circulate about hidden secrets within Zarinesh's Hand, including long-lost treasures or ancient curses."
 status: tree
-title: "Zarinesh's Hand"
+title: Zarineshs Hand
 date created: Wednesday, October 18th 2023, 10:19:51 pm
-date modified: Thursday, December 14th 2023, 1:41:27 pm
+date modified: Thursday, June 27th 2024, 1:23:11 am
 ---
 
 As you join a group of pilgrims on their climb up the massive stone fingers of Zarinesh's Hand, you can feel an aura of reverence growing among your companions. When you finally reach the top, standing at the monument's zenith sends a chill down your spine as you realize how close you have come to divinity itself.
 
 ## Overview
 
-In the heart of the harsh [[Irasnian Wastes]], a colossal stone hand rises from the sands, capturing the wonder and reverence of all who behold it. This magnificent monument, known as [[Zarinesh's Hand]], is believed to be the severed hand of the deity [[Zarinesh]]. A symbol of faith and hope, it serves as a beacon for those who dare to call this unforgiving land their home.
+In the heart of the harsh [[Irasnian Wastes]], a colossal stone hand rises from the sands, capturing the wonder and reverence of all who behold it. This magnificent monument, known as [[Zarineshs Hand]], is believed to be the severed hand of the deity [[Zarinesh]]. A symbol of faith and hope, it serves as a beacon for those who dare to call this unforgiving land their home.
 
 > [!quickref]
 > *Overview*: Colossal stone hand in Irasnian Wastes believed to belong to deity Zarinesh

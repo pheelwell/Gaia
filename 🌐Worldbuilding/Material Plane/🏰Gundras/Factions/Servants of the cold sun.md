@@ -1,7 +1,7 @@
 ---
-title: Servants of the cold sun.
+title: Servants of the cold sun
 date created: Thursday, December 14th 2023, 12:05:44 am
-date modified: Sunday, December 17th 2023, 7:30:10 pm
+date modified: Thursday, June 27th 2024, 1:20:15 am
 ---
 
 The servants of the cold sun are a group based in Gundras which praise Drinera and live life in her philosophy. 

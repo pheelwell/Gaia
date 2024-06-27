@@ -10,8 +10,9 @@ sum:
 title: Helena
 type: NPC
 date created: Friday, October 6th 2023, 7:41:43 pm
-date modified: Sunday, June 16th 2024, 12:39:56 am
+date modified: Thursday, June 27th 2024, 1:20:15 am
 ---
+
 ![Elderly Kind-Looking Woman](_Helena.png)
 
 _"If you want something done right, you have to do it yourself."_

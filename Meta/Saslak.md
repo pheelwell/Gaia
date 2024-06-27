@@ -1,8 +1,14 @@
+---
+title: Saslak
+date created: Thursday, June 27th 2024, 1:15:42 am
+date modified: Thursday, June 27th 2024, 1:17:36 am
+---
+
 Saslak war ein  kleiner, aber mutiger Junge, der in einem winzigen Dorf namens Kipplin lebte. Kipplin lag am Fuße eines großen Berges, der von zahlreichen Legenden und Geschichten umgeben war. Die Menschen in Kipplin waren freundlich und hilfsbereit, doch Saslak hatte das Gefühl, dass er für etwas Größeres bestimmt war.
 
 [[Iraia]]  [[The Moonfair]] [[The Triad]]
 
-# Saslak und das Geheimnis von Kipplin
+## Saslak Und Das Geheimnis Von Kipplin
 
 Saslak war ein kleiner, aber mutiger Junge, der in einem winzigen Dorf namens Kipplin lebte. Kipplin lag am Fuße eines großen Berges, der von zahlreichen Legenden und Geschichten umgeben war. Die Menschen in Kipplin waren freundlich und hilfsbereit, doch Saslak hatte das Gefühl, dass er für etwas Größeres bestimmt war.
 
@@ -26,7 +32,7 @@ Saslak kehrte als Held nach Kipplin zurück und wurde von allen Dorfbewohnern ge
 > [!seed] Seed, Adventure Hook
 > Die Spielercharaktere hören von Saslaks Geschichte und werden beauftragt, das Dorf Kipplin vor einer drohenden Gefahr zu schützen. Dabei stoßen sie auf Geheimnisse über die [[The Triad]] und den Schatz im Berg.
 
-# Neue Ideen
+## Neue Ideen
 
 - Das Dorf Kipplin ist bekannt für seine handwerklichen Fertigkeiten und stellt einzigartige Objekte her, die in der Region sehr begehrt sind.
 - In den tiefen Wäldern um Kipplin gibt es eine uralte Ruine, die von den Göttern der [[Iraia]] stammt und ein Portal zu einer anderen Welt beherbergt.
