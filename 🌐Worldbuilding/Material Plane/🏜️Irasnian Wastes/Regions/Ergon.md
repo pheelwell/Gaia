@@ -30,7 +30,7 @@ Hidden within a maze-like network of tunnels beneath Ergon lies Master Artificer
 
 ### [[The Gilded Dune Tavern]]
 
-A popular watering hole among locals and travelers alike, The Gilded Dune Tavern offers a place to unwind after a long day in the desert heat. Patrons can enjoy local brews made from desert fruits while sharing stories of their adventures or listening to local musicians perform traditional songs.
+A small popular watering hole among locals and travelers alike, The Gilded Dune Tavern offers a place to unwind after a long day in the desert heat. Patrons can enjoy local brews made from desert fruits while sharing stories of their adventures or listening to local musicians perform traditional songs.
 
 > [!seed] A powerful sandstorm has unearthed an ancient entrance within [[Zarinesh's Hand]], rumored to lead to a long-lost underground city. Adventurers are sought to explore the depths and uncover the hidden secrets that lie within.
 
