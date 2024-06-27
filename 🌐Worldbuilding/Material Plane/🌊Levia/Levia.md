@@ -1,5 +1,8 @@
 ---
 banner: "![[Levia-Atmosphere.png]]"
+---
+---
+banner: "![[Levia-Atmosphere.png]]"
 title: Levia
 date created: Thursday, December 14th 2023, 12:02:12 am
 date modified: Friday, December 15th 2023, 1:08:23 pm
