@@ -1,7 +1,4 @@
 ---
-banner: "![[Zarineshian Temple.png]]"
----
----
 dg-publish: true
 type: Meta
 title: Example Site
